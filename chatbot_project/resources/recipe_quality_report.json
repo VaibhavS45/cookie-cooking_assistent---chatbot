@@ -1,0 +1,42 @@
+{
+  "report_title": "Recipe Dataset Quality Report",
+  "generated_at": "2026-06-10",
+  "total_recipes_loaded": 262,
+  "valid_recipes": 262,
+  "duplicates_removed": 0,
+  "incomplete_recipes_removed": 0,
+  "quality_checks": {
+    "all_have_ingredients": true,
+    "all_have_instructions": true,
+    "all_have_cuisine": true,
+    "all_have_meal_type": true,
+    "all_have_prep_time": true,
+    "all_have_cook_time": true,
+    "no_duplicate_names": true
+  },
+  "cuisine_distribution": {
+    "Indian": 105,
+    "Chinese": 57,
+    "Italian": 51,
+    "Mexican": 49
+  },
+  "meal_type_distribution": {
+    "Main Course": 103,
+    "Snack": 34,
+    "Dessert": 34,
+    "Soup": 17,
+    "Breakfast": 15,
+    "Vegetable Side": 12,
+    "Appetizer": 10,
+    "Side Dish": 10,
+    "Beverage": 7,
+    "Bread": 7,
+    "Lentil Dish": 5,
+    "Sauce": 4,
+    "Salad": 2
+  },
+  "total_ingredients_unique": 489,
+  "average_ingredients_per_recipe": 8.2,
+  "average_instructions_per_recipe": 8.1,
+  "data_quality_score": 100
+}

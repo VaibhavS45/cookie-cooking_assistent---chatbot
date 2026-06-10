@@ -1,0 +1,146 @@
+{
+  "title": "Chef Annapurna AI - Demo Conversations",
+  "description": "20 pre-built demo scenarios covering all chatbot capabilities",
+  "scenarios": [
+    {
+      "id": 1,
+      "category": "Indian Recipes",
+      "user": "How do I make paneer butter masala?",
+      "expected_intent": "recipe_search",
+      "description": "Classic Indian gravy dish request"
+    },
+    {
+      "id": 2,
+      "category": "Indian Recipes",
+      "user": "What's the recipe for authentic biryani?",
+      "expected_intent": "recipe_search",
+      "description": "Layered rice and meat dish"
+    },
+    {
+      "id": 3,
+      "category": "Indian Recipes",
+      "user": "How do I make dal tadka at home?",
+      "expected_intent": "recipe_search",
+      "description": "Simple lentil recipe with tempering"
+    },
+    {
+      "id": 4,
+      "category": "Italian Recipes",
+      "user": "Show me how to make spaghetti carbonara",
+      "expected_intent": "recipe_search",
+      "description": "Classic Italian pasta dish"
+    },
+    {
+      "id": 5,
+      "category": "Italian Recipes",
+      "user": "What's the recipe for authentic margherita pizza?",
+      "expected_intent": "recipe_search",
+      "description": "Neapolitan pizza from scratch"
+    },
+    {
+      "id": 6,
+      "category": "Italian Recipes",
+      "user": "How do I make tiramisu?",
+      "expected_intent": "recipe_search",
+      "description": "Italian coffee dessert"
+    },
+    {
+      "id": 7,
+      "category": "Ingredient Based",
+      "user": "I have onion tomato potato garlic. What can I cook?",
+      "expected_intent": "ingredient_search",
+      "description": "Basic Indian kitchen staples - Aloo Gobi, Bharta, etc."
+    },
+    {
+      "id": 8,
+      "category": "Ingredient Based",
+      "user": "I have chicken yogurt cream and spices. What can I make?",
+      "expected_intent": "ingredient_search",
+      "description": "Chicken-based dishes"
+    },
+    {
+      "id": 9,
+      "category": "Ingredient Based",
+      "user": "I have rice, chicken, and basic spices. Any ideas?",
+      "expected_intent": "ingredient_search",
+      "description": "Pulao, Chicken Rice, Biryani options"
+    },
+    {
+      "id": 10,
+      "category": "Ingredient Based",
+      "user": "I have pasta, tomatoes, garlic, olive oil. What can I cook?",
+      "expected_intent": "ingredient_search",
+      "description": "Italian cooking with basics"
+    },
+    {
+      "id": 11,
+      "category": "Healthy Meals",
+      "user": "Give me a healthy low-calorie Indian recipe",
+      "expected_intent": "recipe_search",
+      "description": "Health-conscious recipe request"
+    },
+    {
+      "id": 12,
+      "category": "Healthy Meals",
+      "user": "What's the nutrition info for dal makhani?",
+      "expected_intent": "nutrition_question",
+      "description": "Nutrition query for rich lentil dish"
+    },
+    {
+      "id": 13,
+      "category": "Vegetarian Meals",
+      "user": "Show me vegetarian Indian recipes",
+      "expected_intent": "recipe_search",
+      "description": "Vegetarian preference filtering"
+    },
+    {
+      "id": 14,
+      "category": "Vegetarian Meals",
+      "user": "I want vegan dinner options",
+      "expected_intent": "recipe_search",
+      "description": "Vegan recipe search"
+    },
+    {
+      "id": 15,
+      "category": "Quick Meals",
+      "user": "I need a quick 15-minute meal idea",
+      "expected_intent": "recipe_search",
+      "description": "Fast recipe request"
+    },
+    {
+      "id": 16,
+      "category": "Quick Meals",
+      "user": "What can I make in 10 minutes with eggs?",
+      "expected_intent": "ingredient_search",
+      "description": "Quick egg-based meal"
+    },
+    {
+      "id": 17,
+      "category": "Substitutions",
+      "user": "Can I replace paneer with tofu?",
+      "expected_intent": "substitution_request",
+      "description": "Dairy-to-vegan substitution"
+    },
+    {
+      "id": 18,
+      "category": "Substitutions",
+      "user": "What can I use instead of cream in my curry?",
+      "expected_intent": "substitution_request",
+      "description": "Healthy cream alternatives"
+    },
+    {
+      "id": 19,
+      "category": "Cooking Help",
+      "user": "How do I temper spices properly?",
+      "expected_intent": "cooking_help",
+      "description": "Technique-based cooking help"
+    },
+    {
+      "id": 20,
+      "category": "Cooking Help",
+      "user": "My curry is too spicy, how do I fix it?",
+      "expected_intent": "cooking_help",
+      "description": "Troubleshooting cooking issues"
+    }
+  ]
+}
