@@ -1,0 +1,461 @@
+[
+  {
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": ["Spaghetti 400g", "Eggs 4", "Pancetta 200g", "Pecorino Romano 1 cup", "Black pepper 2 tsp", "Salt to taste"],
+    "instructions": ["Cook spaghetti in salted boiling water", "Fry pancetta until crispy", "Beat eggs with grated pecorino", "Add hot pasta to pancetta", "Remove from heat and add egg mixture", "Toss quickly to coat", "Add generous black pepper", "Serve immediately"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Margherita Pizza",
+    "ingredients": ["Pizza dough 500g", "San Marzano tomatoes 400g", "Fresh mozzarella 250g", "Fresh basil leaves", "Olive oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Preheat oven to 500F with pizza stone", "Stretch dough into round", "Crush tomatoes and spread on base", "Tear mozzarella and distribute evenly", "Drizzle olive oil", "Bake for 10-12 minutes until golden", "Top with fresh basil leaves", "Serve hot"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "12 minutes"
+  },
+  {
+    "recipe_name": "Lasagna",
+    "ingredients": ["Lasagna sheets 12", "Ground beef 500g", "Tomato sauce 3 cups", "Ricotta cheese 2 cups", "Mozzarella 2 cups shredded", "Parmesan 1 cup grated", "Onion 1", "Garlic 4 cloves", "Italian seasoning 2 tsp", "Olive oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Brown beef with onion and garlic", "Add tomato sauce and simmer for 20 minutes", "Mix ricotta with half the parmesan", "Layer sauce, noodles, ricotta, and mozzarella", "Repeat layers 3 times", "Top with remaining mozzarella and parmesan", "Cover with foil and bake at 375F for 30 minutes", "Uncover and bake 10 more minutes", "Rest for 10 minutes before serving"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "60 minutes"
+  },
+  {
+    "recipe_name": "Bruschetta",
+    "ingredients": ["Italian bread 8 slices", "Tomatoes 4 ripe", "Fresh basil 1/4 cup", "Garlic 2 cloves", "Olive oil 3 tbsp", "Balsamic vinegar 1 tbsp", "Salt to taste", "Black pepper to taste"],
+    "instructions": ["Dice tomatoes and mix with basil", "Add olive oil, balsamic vinegar, and seasonings", "Toast bread slices until golden", "Rub with garlic clove", "Top with tomato mixture", "Drizzle with extra olive oil", "Serve immediately"],
+    "cuisine": "Italian",
+    "meal_type": "Appetizer",
+    "prep_time": "15 minutes",
+    "cook_time": "5 minutes"
+  },
+  {
+    "recipe_name": "Fettuccine Alfredo",
+    "ingredients": ["Fettuccine 400g", "Butter 1/2 cup", "Heavy cream 2 cups", "Parmesan cheese 2 cups grated", "Garlic 3 cloves", "Black pepper 1 tsp", "Salt to taste"],
+    "instructions": ["Cook fettuccine al dente", "Melt butter in large pan", "Add garlic and cook briefly", "Add cream and simmer until slightly thick", "Add parmesan and stir until melted", "Add pasta and toss well", "Season with black pepper", "Serve immediately with extra parmesan"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "5 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Caprese Salad",
+    "ingredients": ["Fresh mozzarella 250g", "Tomatoes 3 large", "Fresh basil leaves 1/4 cup", "Olive oil 3 tbsp", "Balsamic vinegar 2 tbsp", "Salt to taste", "Black pepper to taste"],
+    "instructions": ["Slice mozzarella and tomatoes evenly", "Arrange alternating on plate", "Tuck basil leaves between slices", "Drizzle with olive oil and balsamic", "Season with salt and pepper", "Serve at room temperature"],
+    "cuisine": "Italian",
+    "meal_type": "Appetizer",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Minestrone Soup",
+    "ingredients": ["Mixed vegetables 3 cups", "Cannellini beans 1 can", "Tomatoes 400g crushed", "Pasta 1 cup small", "Garlic 3 cloves", "Onion 1", "Vegetable stock 6 cups", "Parmesan rind", "Olive oil 3 tbsp", "Italian seasoning 2 tsp", "Salt to taste"],
+    "instructions": ["Saute onion and garlic in olive oil", "Add vegetables and cook for 5 minutes", "Add crushed tomatoes and stock", "Add parmesan rind and seasonings", "Simmer for 20 minutes", "Add beans and pasta", "Cook until pasta is tender", "Remove parmesan rind", "Serve with grated parmesan"],
+    "cuisine": "Italian",
+    "meal_type": "Soup",
+    "prep_time": "15 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Risotto alla Milanese",
+    "ingredients": ["Arborio rice 2 cups", "Chicken stock 6 cups", "Saffron 1/2 tsp", "Onion 1", "Butter 4 tbsp", "Parmesan 1 cup grated", "White wine 1/2 cup", "Salt to taste"],
+    "instructions": ["Warm stock and dissolve saffron in it", "Saute finely diced onion in butter", "Add rice and toast for 2 minutes", "Add wine and stir until absorbed", "Add hot stock one ladle at a time", "Stir continuously for 18 minutes", "Add butter and parmesan", "Rest for 2 minutes before serving"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Chicken Parmesan",
+    "ingredients": ["Chicken breast 4", "Breadcrumbs 1 cup", "Parmesan 1/2 cup grated", "Mozzarella 2 cups", "Tomato sauce 2 cups", "Eggs 2", "All-purpose flour 1/2 cup", "Olive oil for frying", "Italian seasoning 1 tsp", "Salt to taste"],
+    "instructions": ["Pound chicken breasts to even thickness", "Season and coat with flour", "Dip in beaten egg", "Coat with breadcrumbs and parmesan mix", "Fry in olive oil until golden", "Top with tomato sauce and mozzarella", "Bake at 400F for 15 minutes", "Serve with pasta or salad"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Panna Cotta",
+    "ingredients": ["Heavy cream 2 cups", "Milk 1/2 cup", "Sugar 1/2 cup", "Vanilla extract 2 tsp", "Gelatin 2 tsp", "Cold water 3 tbsp", "Berries for topping"],
+    "instructions": ["Bloom gelatin in cold water for 5 minutes", "Heat cream, milk, and sugar gently", "Do not boil", "Add vanilla and bloomed gelatin", "Stir until dissolved", "Pour into molds", "Refrigerate for 4 hours", "Unmold and serve with berries"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Tiramisu",
+    "ingredients": ["Ladyfingers 24", "Mascarpone 500g", "Espresso 2 cups cooled", "Eggs 4", "Sugar 1/2 cup", "Cocoa powder for dusting", "Marsala wine 2 tbsp optional"],
+    "instructions": ["Separate eggs and beat yolks with sugar", "Add mascarpone and mix until smooth", "Whip egg whites to stiff peaks and fold in", "Dip ladyfingers in coffee briefly", "Layer dipped ladyfingers in dish", "Spread mascarpone mixture over", "Repeat layers", "Dust generously with cocoa powder", "Refrigerate for 4 hours minimum"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "30 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Arancini",
+    "ingredients": ["Arborio rice 2 cups cooked risotto", "Mozzarella 200g cubed", "Peas 1/2 cup", "Breadcrumbs 2 cups", "Eggs 2", "All-purpose flour 1 cup", "Oil for frying", "Salt to taste"],
+    "instructions": ["Form cold risotto into balls", "Press mozzarella cube into center", "Roll in flour", "Dip in beaten egg", "Coat with breadcrumbs", "Deep fry until golden and crispy", "Drain on paper towel", "Serve hot with marinara sauce"],
+    "cuisine": "Italian",
+    "meal_type": "Snack",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Pesto Genovese",
+    "ingredients": ["Fresh basil 2 cups", "Pine nuts 1/4 cup", "Parmesan 1/2 cup grated", "Garlic 2 cloves", "Olive oil 1/2 cup", "Salt to taste"],
+    "instructions": ["Pound garlic and pine nuts in mortar", "Add basil leaves gradually", "Grind to paste", "Add grated parmesan", "Drizzle olive oil while mixing", "Season with salt", "Toss with hot pasta"],
+    "cuisine": "Italian",
+    "meal_type": "Sauce",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Eggplant Parmesan",
+    "ingredients": ["Eggplant 2 large", "Tomato sauce 3 cups", "Mozzarella 2 cups shredded", "Parmesan 1 cup grated", "Breadcrumbs 1 cup", "Eggs 2", "Olive oil for frying", "Fresh basil", "Salt to taste"],
+    "instructions": ["Slice eggplant into rounds", "Salt and let sit for 30 minutes", "Pat dry", "Dip in egg and coat with breadcrumbs", "Fry until golden on both sides", "Layer sauce, eggplant, and cheeses", "Repeat layers", "Bake at 375F for 25 minutes", "Garnish with fresh basil"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Gnocchi",
+    "ingredients": ["Potatoes 1kg", "All-purpose flour 2 cups", "Egg 1", "Salt to taste", "Nutmeg 1/4 tsp"],
+    "instructions": ["Boil potatoes until tender", "Rice or mash while hot", "Cool slightly", "Mix with flour, egg, salt, and nutmeg", "Knead gently into dough", "Roll into ropes and cut into pieces", "Press with fork for ridges", "Boil until they float", "Serve with desired sauce"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Osso Buco",
+    "ingredients": ["Veal shanks 4", "Tomatoes 400g crushed", "Carrots 2", "Celery 2 stalks", "Onion 1", "Garlic 4 cloves", "White wine 1 cup", "Chicken stock 2 cups", "All-purpose flour for dusting", "Olive oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Dust veal shanks with flour", "Brown in olive oil on all sides", "Remove and set aside", "Saute diced vegetables", "Add garlic and cook", "Add wine and reduce by half", "Add tomatoes and stock", "Return shanks to pot", "Braise covered for 2 hours", "Serve with gremolata"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "130 minutes"
+  },
+  {
+    "recipe_name": "Focaccia",
+    "ingredients": ["All-purpose flour 4 cups", "Warm water 1.5 cups", "Yeast 2 tsp", "Olive oil 1/3 cup", "Salt 2 tsp", "Sugar 1 tsp", "Rosemary for topping", "Sea salt for topping"],
+    "instructions": ["Mix yeast with warm water and sugar", "Let sit for 5 minutes", "Mix flour, salt, and olive oil", "Add yeast mixture and knead", "Let rise for 2 hours", "Press into oiled baking sheet", "Dimple surface with fingers", "Drizzle olive oil and add rosemary", "Bake at 425F for 20 minutes", "Sprinkle with sea salt"],
+    "cuisine": "Italian",
+    "meal_type": "Bread",
+    "prep_time": "2 hours",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Cannoli",
+    "ingredients": ["Cannoli shells 12", "Ricotta cheese 2 cups", "Powdered sugar 1/2 cup", "Vanilla extract 1 tsp", "Chocolate chips 1/4 cup", "Pistachios 1/4 cup chopped", "Cinnamon 1/2 tsp"],
+    "instructions": ["Drain ricotta overnight if wet", "Mix ricotta with sugar and vanilla", "Add cinnamon and chocolate chips", "Pipe filling into cannoli shells", "Dip ends in chopped pistachios", "Dust with powdered sugar", "Serve immediately"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Marinara Sauce",
+    "ingredients": ["San Marzano tomatoes 800g", "Garlic 4 cloves", "Olive oil 3 tbsp", "Fresh basil leaves", "Salt to taste", "Black pepper to taste"],
+    "instructions": ["Crush tomatoes by hand", "Heat olive oil and add garlic", "Cook until fragrant", "Add tomatoes and simmer for 20 minutes", "Season with salt and pepper", "Tear basil leaves and stir in", "Serve over pasta"],
+    "cuisine": "Italian",
+    "meal_type": "Sauce",
+    "prep_time": "5 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Polenta",
+    "ingredients": ["Cornmeal 2 cups", "Water 6 cups", "Butter 3 tbsp", "Parmesan 1/2 cup grated", "Salt to taste"],
+    "instructions": ["Bring water to boil with salt", "Slowly whisk in cornmeal", "Reduce heat and stir continuously", "Cook for 30 minutes until thick", "Add butter and parmesan", "Stir until melted", "Serve soft or let set and pan fry"],
+    "cuisine": "Italian",
+    "meal_type": "Side Dish",
+    "prep_time": "5 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Bolognese Sauce",
+    "ingredients": ["Ground beef 500g", "Ground pork 200g", "Tomato paste 2 tbsp", "Crushed tomatoes 800g", "Carrots 2", "Celery 2 stalks", "Onion 1", "Garlic 4 cloves", "Milk 1 cup", "Red wine 1 cup", "Olive oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Finely dice onion, carrot, and celery", "Heat oil and saute vegetables", "Add garlic and cook", "Add meats and brown well", "Add wine and reduce", "Add tomato paste and crushed tomatoes", "Add milk and simmer for 3 hours", "Season and serve over tagliatelle"],
+    "cuisine": "Italian",
+    "meal_type": "Sauce",
+    "prep_time": "20 minutes",
+    "cook_time": "190 minutes"
+  },
+  {
+    "recipe_name": "Caponata",
+    "ingredients": ["Eggplant 2", "Celery 3 stalks", "Tomatoes 4", "Capers 2 tbsp", "Olives 1/2 cup", "Onion 1", "Red wine vinegar 3 tbsp", "Sugar 2 tbsp", "Olive oil 4 tbsp", "Salt to taste"],
+    "instructions": ["Dice eggplant and salt for 30 minutes", "Pat dry and fry in oil until soft", "Saute onion and celery", "Add tomatoes and cook down", "Add eggplant, capers, and olives", "Add vinegar and sugar", "Simmer for 15 minutes", "Serve at room temperature"],
+    "cuisine": "Italian",
+    "meal_type": "Appetizer",
+    "prep_time": "20 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Calzone",
+    "ingredients": ["Pizza dough 500g", "Ricotta 1 cup", "Mozzarella 2 cups shredded", "Salami 200g sliced", "Tomato sauce 1 cup", "Egg 1 for wash", "Olive oil 1 tbsp", "Salt to taste"],
+    "instructions": ["Divide dough into 4 portions", "Roll each into circle", "Spread sauce on one half", "Add ricotta, mozzarella, and salami", "Fold other half over filling", "Seal edges by crimping", "Brush with egg wash", "Bake at 450F for 20 minutes", "Serve with marinara sauce"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Ravioli",
+    "ingredients": ["All-purpose flour 2 cups", "Eggs 3", "Ricotta 1 cup", "Spinach 1 cup cooked", "Parmesan 1/2 cup grated", "Nutmeg 1/4 tsp", "Salt to taste"],
+    "instructions": ["Make well with flour", "Add eggs and mix into dough", "Knead for 10 minutes", "Rest for 30 minutes", "Mix ricotta, spinach, parmesan, nutmeg", "Roll pasta dough thin", "Place filling in small mounds", "Cover with second sheet and seal", "Cut into squares", "Boil for 3 minutes", "Serve with sage butter"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "45 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Affogato",
+    "ingredients": ["Vanilla gelato 2 scoops", "Espresso 1 shot hot", "Amaretto liqueur optional"],
+    "instructions": ["Place scoop of gelato in serving glass", "Pour hot espresso over gelato", "Add amaretto if desired", "Serve immediately"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "2 minutes",
+    "cook_time": "2 minutes"
+  },
+  {
+    "recipe_name": "Mushroom Risotto",
+    "ingredients": ["Arborio rice 2 cups", "Mixed mushrooms 500g", "Chicken stock 6 cups", "Onion 1", "Garlic 3 cloves", "Butter 4 tbsp", "Parmesan 1 cup grated", "White wine 1/2 cup", "Thyme 1 tsp", "Olive oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Saute mushrooms in olive oil until golden", "Set aside", "Warm stock in saucepan", "Saute onion and garlic in butter", "Add rice and toast for 2 minutes", "Add wine and stir until absorbed", "Add stock one ladle at a time stirring continuously", "Cook for 18 minutes", "Fold in mushrooms, butter, and parmesan", "Serve immediately"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Panzanella",
+    "ingredients": ["Bread 4 cups stale cubed", "Tomatoes 4 ripe", "Cucumber 1", "Red onion 1", "Fresh basil 1/4 cup", "Olive oil 4 tbsp", "Red wine vinegar 2 tbsp", "Salt to taste", "Black pepper to taste"],
+    "instructions": ["Toast bread cubes until dry", "Chop tomatoes, cucumber, and onion", "Mix vegetables with bread", "Add torn basil leaves", "Dress with olive oil and vinegar", "Season and toss well", "Let sit for 15 minutes before serving"],
+    "cuisine": "Italian",
+    "meal_type": "Salad",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Pasta e Fagioli",
+    "ingredients": ["Pasta 300g small shells", "Cannellini beans 2 cans", "Tomatoes 400g crushed", "Garlic 4 cloves", "Onion 1", "Carrots 2", "Celery 2 stalks", "Vegetable stock 4 cups", "Rosemary 1 sprig", "Olive oil 3 tbsp", "Parmesan for serving", "Salt to taste"],
+    "instructions": ["Saute onion, carrot, and celery in olive oil", "Add garlic and rosemary", "Add tomatoes and stock", "Simmer for 15 minutes", "Add beans and pasta", "Cook until pasta is al dente", "Season and serve with parmesan", "Drizzle with olive oil"],
+    "cuisine": "Italian",
+    "meal_type": "Soup",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Stuffed Peppers",
+    "ingredients": ["Bell peppers 4 large", "Ground beef 400g", "Rice 1 cup cooked", "Tomato sauce 2 cups", "Onion 1", "Garlic 3 cloves", "Italian seasoning 2 tsp", "Mozzarella 1 cup shredded", "Olive oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Cut peppers in half and remove seeds", "Blanch for 3 minutes", "Brown beef with onion and garlic", "Mix with rice and half the sauce", "Stuff peppers with mixture", "Top with remaining sauce", "Cover and bake at 375F for 30 minutes", "Top with mozzarella and bake 10 more minutes"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "45 minutes"
+  },
+  {
+    "recipe_name": "Biscotti",
+    "ingredients": ["All-purpose flour 2 cups", "Sugar 1 cup", "Eggs 3", "Almonds 1 cup toasted", "Butter 1/2 cup", "Baking powder 1 tsp", "Vanilla extract 1 tsp", "Orange zest 1 tbsp"],
+    "instructions": ["Cream butter and sugar", "Add eggs and vanilla", "Mix flour and baking powder", "Add almonds and zest", "Form into log shape", "Bake at 350F for 25 minutes", "Cool for 10 minutes", "Slice diagonally", "Bake slices for 10 more minutes each side"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "45 minutes"
+  },
+  {
+    "recipe_name": "Cioppino",
+    "ingredients": ["Mixed seafood 1kg", "Tomatoes 800g crushed", "White wine 1 cup", "Fish stock 2 cups", "Garlic 4 cloves", "Onion 1", "Fennel 1 bulb", "Olive oil 4 tbsp", "Red pepper flakes 1 tsp", "Fresh basil", "Salt to taste"],
+    "instructions": ["Saute onion and fennel in olive oil", "Add garlic and red pepper flakes", "Add tomatoes, wine, and stock", "Simmer for 20 minutes", "Add firm fish first", "Add shellfish later", "Cook until seafood is done", "Garnish with basil", "Serve with crusty bread"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "40 minutes"
+  },
+  {
+    "recipe_name": "Zeppole",
+    "ingredients": ["All-purpose flour 1 cup", "Water 1 cup", "Butter 1/2 cup", "Eggs 3", "Sugar 2 tbsp", "Lemon zest 1 tsp", "Oil for frying", "Powdered sugar for dusting"],
+    "instructions": ["Boil water with butter and sugar", "Add flour and stir until dough forms", "Cool slightly", "Add eggs one at a time", "Add lemon zest", "Heat oil for deep frying", "Drop spoonfuls of dough", "Fry until golden and puffed", "Drain and dust with powdered sugar"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Saltimbocca",
+    "ingredients": ["Veal cutlets 4", "Prosciutto 4 slices", "Sage leaves 8", "Butter 3 tbsp", "White wine 1/2 cup", "All-purpose flour for dusting", "Salt to taste"],
+    "instructions": ["Pound veal cutlets thin", "Place prosciutto and sage on each", "Secure with toothpick", "Dust with flour", "Melt butter and cook cutlets", "Cook 3 minutes each side", "Remove and keep warm", "Add wine to pan and reduce", "Pour sauce over cutlets", "Serve immediately"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Stracciatella Soup",
+    "ingredients": ["Chicken stock 6 cups", "Eggs 4", "Parmesan 1/2 cup grated", "Semolina 2 tbsp", "Nutmeg 1/4 tsp", "Fresh parsley", "Salt to taste"],
+    "instructions": ["Bring stock to gentle boil", "Beat eggs with parmesan and semolina", "Add nutmeg", "Pour egg mixture into simmering stock", "Stir gently to create strands", "Cook for 2 minutes", "Season and garnish with parsley", "Serve hot"],
+    "cuisine": "Italian",
+    "meal_type": "Soup",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Vitello Tonnato",
+    "ingredients": ["Veal loin 500g", "Tuna 200g canned", "Capers 2 tbsp", "Anchovies 4 fillets", "Mayonnaise 1/2 cup", "Lemon juice 2 tbsp", "White wine 1/2 cup", "Salt to taste"],
+    "instructions": ["Poach veal in wine and water until tender", "Cool and slice thinly", "Blend tuna, anchovies, capers, and lemon", "Mix with mayonnaise", "Arrange veal slices on plate", "Pour tuna sauce over", "Refrigerate for 2 hours", "Serve cold"],
+    "cuisine": "Italian",
+    "meal_type": "Appetizer",
+    "prep_time": "15 minutes",
+    "cook_time": "45 minutes"
+  },
+  {
+    "recipe_name": "Pasta Primavera",
+    "ingredients": ["Pasta 400g", "Mixed vegetables 4 cups", "Garlic 3 cloves", "Olive oil 3 tbsp", "Parmesan 1 cup grated", "Lemon juice 1 tbsp", "Fresh basil", "Salt to taste"],
+    "instructions": ["Cook pasta al dente", "Saute garlic in olive oil", "Add vegetables and cook until tender", "Toss with hot pasta", "Add parmesan and lemon juice", "Season and garnish with basil", "Serve immediately"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Tortellini in Brodo",
+    "ingredients": ["Tortellini 400g", "Chicken stock 6 cups", "Parmesan for serving", "Fresh parsley", "Salt to taste"],
+    "instructions": ["Bring stock to boil", "Add tortellini", "Cook according to package", "Ladle into bowls with broth", "Top with grated parmesan", "Garnish with parsley", "Serve hot"],
+    "cuisine": "Italian",
+    "meal_type": "Soup",
+    "prep_time": "5 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Grissini",
+    "ingredients": ["All-purpose flour 3 cups", "Yeast 2 tsp", "Warm water 1 cup", "Olive oil 3 tbsp", "Salt 1 tsp", "Sugar 1 tsp", "Sesame seeds for topping"],
+    "instructions": ["Mix yeast with warm water and sugar", "Let sit for 5 minutes", "Add flour, oil, and salt", "Knead into smooth dough", "Let rise for 1 hour", "Roll into thin strips", "Place on baking sheet", "Brush with oil and sprinkle sesame seeds", "Bake at 375F for 15 minutes until crispy"],
+    "cuisine": "Italian",
+    "meal_type": "Bread",
+    "prep_time": "1 hour",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Linguine with Clams",
+    "ingredients": ["Linguine 400g", "Clams 1kg", "Garlic 5 cloves", "White wine 1 cup", "Olive oil 4 tbsp", "Red pepper flakes 1 tsp", "Fresh parsley 1/4 cup", "Salt to taste"],
+    "instructions": ["Cook linguine al dente", "Heat olive oil and add garlic", "Add red pepper flakes", "Add clams and wine", "Cover and cook until clams open", "Discard unopened clams", "Toss with pasta", "Add parsley and serve"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Ricotta Cheesecake",
+    "ingredients": ["Ricotta 500g", "Sugar 3/4 cup", "Eggs 3", "All-purpose flour 3 tbsp", "Lemon zest 2 tbsp", "Vanilla extract 1 tsp", "Butter for pan"],
+    "instructions": ["Mix ricotta until smooth", "Add sugar and eggs one at a time", "Add flour, zest, and vanilla", "Pour into buttered pan", "Bake at 350F for 50 minutes", "Cool completely", "Refrigerate for 2 hours", "Serve chilled"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "50 minutes"
+  },
+  {
+    "recipe_name": "Sicilian Pizza",
+    "ingredients": ["Pizza dough 600g", "Tomato sauce 2 cups", "Mozzarella 2 cups", "Parmesan 1/2 cup", "Anchovies 8 fillets", "Olives 1/2 cup", "Olive oil 3 tbsp", "Oregano 1 tsp"],
+    "instructions": ["Press dough into oiled baking sheet", "Spread tomato sauce", "Add mozzarella and parmesan", "Arrange anchovies and olives", "Sprinkle oregano", "Drizzle olive oil", "Bake at 450F for 20 minutes until golden and crispy", "Cut into squares and serve"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Tuscan Bean Soup",
+    "ingredients": ["Cannellini beans 2 cans", "Kale 2 cups", "Tomatoes 400g crushed", "Onion 1", "Garlic 4 cloves", "Carrots 2", "Celery 2 stalks", "Vegetable stock 4 cups", "Bread 4 slices stale", "Olive oil 3 tbsp", "Rosemary 1 sprig", "Salt to taste"],
+    "instructions": ["Saute onion, carrot, and celery in olive oil", "Add garlic and rosemary", "Add tomatoes and stock", "Add beans and bring to boil", "Simmer for 20 minutes", "Add kale and cook until wilted", "Place bread in bowls", "Ladle soup over bread", "Drizzle with olive oil and serve"],
+    "cuisine": "Italian",
+    "meal_type": "Soup",
+    "prep_time": "15 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Paccheri with Amatriciana",
+    "ingredients": ["Paccheri 400g", "Guanciale 200g", "Tomatoes 800g crushed", "Pecorino Romano 1 cup", "Red pepper flakes 1 tsp", "Black pepper", "Salt to taste"],
+    "instructions": ["Fry guanciale until crispy", "Remove excess fat leaving 2 tbsp", "Add red pepper flakes", "Add tomatoes and simmer for 15 minutes", "Cook paccheri al dente", "Toss pasta with sauce", "Add pecorino and mix well", "Serve immediately with extra pecorino"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "5 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Stuffed Zucchini",
+    "ingredients": ["Zucchini 4 large", "Ground beef 300g", "Breadcrumbs 1/2 cup", "Parmesan 1/2 cup", "Garlic 2 cloves", "Egg 1", "Fresh mint 2 tbsp", "Olive oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Halve zucchini lengthwise", "Scoop out centers", "Chop scooped flesh", "Mix with beef, breadcrumbs, and parmesan", "Add garlic, egg, and mint", "Stuff zucchini shells", "Drizzle with olive oil", "Bake at 375F for 30 minutes", "Serve hot"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Semifreddo",
+    "ingredients": ["Eggs 4", "Sugar 1 cup", "Heavy cream 2 cups", "Vanilla extract 1 tsp", "Hazelnuts 1/2 cup toasted", "Chocolate 100g chopped"],
+    "instructions": ["Beat eggs with sugar until thick and pale", "Whip cream to soft peaks", "Fold cream into egg mixture", "Add vanilla, nuts, and chocolate", "Pour into loaf pan lined with plastic wrap", "Freeze for 6 hours", "Unmold and slice", "Serve with berry sauce"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Bagna Cauda",
+    "ingredients": ["Anchovies 8 fillets", "Garlic 6 cloves", "Butter 1/2 cup", "Olive oil 1/2 cup", "Heavy cream 1/4 cup", "Raw vegetables for dipping"],
+    "instructions": ["Melt butter with olive oil", "Add minced garlic and cook gently", "Add anchovies and mash until dissolved", "Add cream and stir", "Keep warm in fondue pot", "Serve with raw vegetables for dipping"],
+    "cuisine": "Italian",
+    "meal_type": "Appetizer",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Panforte",
+    "ingredients": ["Almonds 1 cup", "Hazelnuts 1 cup", "Dried figs 1 cup", "Candied orange peel 1/2 cup", "Honey 3/4 cup", "Sugar 1/2 cup", "All-purpose flour 1/2 cup", "Cocoa powder 2 tbsp", "Cinnamon 1 tsp", "Nutmeg 1/2 tsp", "Powdered sugar for dusting"],
+    "instructions": ["Toast nuts and chop roughly", "Mix nuts, dried fruit, flour, cocoa, and spices", "Heat honey and sugar until dissolved", "Pour over dry ingredients and mix", "Press into parchment-lined pan", "Bake at 300F for 30 minutes", "Cool completely", "Dust with powdered sugar", "Slice thinly and serve"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Pizzoccheri",
+    "ingredients": ["Buckwheat pasta 400g", "Potatoes 2", "Swiss chard 2 cups", "Garlic 3 cloves", "Butter 4 tbsp", "Parmesan 1 cup grated", "Salt to taste", "Black pepper to taste"],
+    "instructions": ["Cook pasta and potatoes in same pot", "Add chard in last 3 minutes", "Drain and reserve some water", "Melt butter with garlic", "Layer pasta mixture with cheese", "Pour garlic butter over top", "Season with black pepper", "Serve hot"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Cacciucco",
+    "ingredients": ["Mixed seafood 1.5kg", "Tomatoes 800g crushed", "Garlic 5 cloves", "Red pepper flakes 1 tsp", "White wine 1 cup", "Olive oil 4 tbsp", "Bread 4 slices", "Salt to taste"],
+    "instructions": ["Heat olive oil and saute garlic", "Add red pepper flakes", "Add tomatoes and wine", "Simmer for 15 minutes", "Add firm fish first, then shellfish", "Cook until seafood is done", "Toast bread slices", "Place bread in bowls", "Ladle stew over bread", "Serve hot"],
+    "cuisine": "Italian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Granita",
+    "ingredients": ["Water 3 cups", "Sugar 1 cup", "Lemon juice 1/2 cup", "Lemon zest 2 tbsp"],
+    "instructions": ["Heat water and sugar until dissolved", "Cool completely", "Add lemon juice and zest", "Pour into shallow dish", "Freeze for 1 hour", "Scrape with fork to create crystals", "Repeat scraping every 30 minutes for 3 hours", "Serve in chilled glasses"],
+    "cuisine": "Italian",
+    "meal_type": "Dessert",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Supplì",
+    "ingredients": ["Arborio rice 2 cups cooked", "Mozzarella 200g", "Tomato sauce 1 cup", "Ground beef 200g", "Eggs 2", "Breadcrumbs 2 cups", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix rice with tomato sauce", "Add cooked ground beef", "Form into balls", "Press mozzarella cube into center", "Roll in breadcrumbs", "Dip in egg and breadcrumbs again", "Deep fry until golden", "Serve hot"],
+    "cuisine": "Italian",
+    "meal_type": "Snack",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes"
+  }
+]

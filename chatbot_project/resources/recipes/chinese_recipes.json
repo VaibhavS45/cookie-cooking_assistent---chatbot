@@ -1,0 +1,515 @@
+[
+  {
+    "recipe_name": "Kung Pao Chicken",
+    "ingredients": ["Chicken breast 400g", "Peanuts 1/2 cup", "Dried red chili 10", "Soy sauce 2 tbsp", "Rice vinegar 1 tbsp", "Sugar 1 tbsp", "Sesame oil 1 tsp", "Ginger 1 inch", "Garlic 3 cloves", "Spring onions 4", "Cornflour 1 tbsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Cut chicken into small cubes", "Marinate with soy sauce and cornflour", "Mix vinegar, sugar, and sesame oil for sauce", "Heat oil and fry dried chili until dark", "Add chicken and stir fry until cooked", "Add ginger and garlic", "Add sauce and peanuts", "Toss with spring onions", "Serve hot with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Fried Rice",
+    "ingredients": ["Cooked rice 3 cups", "Eggs 2", "Mixed vegetables 1 cup", "Soy sauce 2 tbsp", "Spring onions 4", "Garlic 2 cloves", "Sesame oil 1 tbsp", "Oil 2 tbsp", "White pepper 1/2 tsp", "Salt to taste"],
+    "instructions": ["Heat oil in a wok on high heat", "Scramble eggs and set aside", "Stir fry garlic and vegetables", "Add cold rice and break clumps", "Add soy sauce and toss well", "Add scrambled eggs", "Add spring onions and sesame oil", "Season and serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Mapo Tofu",
+    "ingredients": ["Tofu 400g", "Ground pork 200g", "Doubanjiang 2 tbsp", "Soy sauce 1 tbsp", "Sichuan pepper 1 tsp", "Garlic 3 cloves", "Ginger 1 inch", "Spring onions 3", "Cornflour 1 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Cut tofu into cubes and blanch in hot water", "Heat oil and brown ground pork", "Add doubanjiang, garlic, and ginger", "Add tofu carefully and simmer", "Add soy sauce and Sichuan pepper", "Thicken with cornflour slurry", "Garnish with spring onions", "Serve hot with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Spring Rolls",
+    "ingredients": ["Spring roll wrappers 12", "Cabbage 2 cups shredded", "Carrots 1 cup grated", "Bean sprouts 1 cup", "Mushrooms 1 cup sliced", "Soy sauce 2 tbsp", "Sesame oil 1 tsp", "Garlic 2 cloves", "Oil for frying", "Salt to taste"],
+    "instructions": ["Heat oil and stir fry garlic", "Add all vegetables and stir fry briefly", "Add soy sauce and sesame oil", "Cool the filling completely", "Place filling on wrapper and roll tightly", "Seal edges with water", "Deep fry until golden and crispy", "Serve with sweet chili sauce"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "30 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Sweet and Sour Pork",
+    "ingredients": ["Pork tenderloin 400g", "Pineapple chunks 1 cup", "Bell pepper 2", "Onion 1", "Tomato ketchup 3 tbsp", "Rice vinegar 2 tbsp", "Sugar 2 tbsp", "Soy sauce 1 tbsp", "Cornflour 3 tbsp", "Egg 1", "Oil for frying", "Salt to taste"],
+    "instructions": ["Cut pork into bite-sized pieces", "Coat with egg and cornflour", "Deep fry until golden and crispy", "Mix ketchup, vinegar, sugar, and soy sauce", "Stir fry bell pepper and onion", "Add sauce and pineapple", "Add fried pork and toss", "Serve immediately with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Hot and Sour Soup",
+    "ingredients": ["Tofu 200g", "Mushrooms 1 cup", "Bamboo shoots 1/2 cup", "Egg 1 beaten", "Chicken stock 4 cups", "Soy sauce 2 tbsp", "Rice vinegar 3 tbsp", "White pepper 1 tsp", "Sesame oil 1 tsp", "Cornflour 2 tbsp", "Spring onions for garnish", "Salt to taste"],
+    "instructions": ["Bring chicken stock to boil", "Add shredded mushrooms and bamboo shoots", "Add tofu strips", "Add soy sauce, vinegar, and white pepper", "Thicken with cornflour slurry", "Drizzle beaten egg while stirring", "Add sesame oil and garnish", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Soup",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Chow Mein",
+    "ingredients": ["Noodles 300g", "Chicken or shrimp 200g", "Cabbage 2 cups", "Carrots 1 cup", "Bean sprouts 1 cup", "Soy sauce 3 tbsp", "Garlic 3 cloves", "Ginger 1 inch", "Sesame oil 1 tbsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Cook noodles according to package", "Drain and toss with sesame oil", "Heat oil and stir fry garlic and ginger", "Add chicken and cook through", "Add vegetables and stir fry on high heat", "Add noodles and soy sauce", "Toss everything together", "Serve hot with chili oil"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "12 minutes"
+  },
+  {
+    "recipe_name": "Dim Sum",
+    "ingredients": ["Wonton wrappers 20", "Ground pork 300g", "Shrimp 200g chopped", "Ginger 1 inch grated", "Garlic 2 cloves", "Soy sauce 1 tbsp", "Sesame oil 1 tsp", "Spring onions 3 chopped", "Salt to taste"],
+    "instructions": ["Mix pork, shrimp, ginger, and garlic", "Add soy sauce, sesame oil, and spring onions", "Place filling on wrapper", "Pleat edges to seal", "Steam for 8 minutes", "Serve with soy sauce and chili oil"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "30 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Mongolian Beef",
+    "ingredients": ["Beef flank steak 400g", "Soy sauce 3 tbsp", "Brown sugar 2 tbsp", "Garlic 4 cloves", "Ginger 1 inch", "Spring onions 4", "Cornflour 2 tbsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Slice beef thinly against grain", "Coat with cornflour", "Mix soy sauce and brown sugar", "Heat oil and sear beef quickly", "Remove and set aside", "Stir fry garlic and ginger", "Add sauce mixture and bring to boil", "Add beef and spring onions", "Serve hot over rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Egg Fried Rice",
+    "ingredients": ["Cooked rice 3 cups cold", "Eggs 3", "Spring onions 4", "Soy sauce 2 tbsp", "Sesame oil 1 tbsp", "White pepper 1/2 tsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Heat oil in wok on high heat", "Scramble eggs and break into pieces", "Add cold rice and stir fry vigorously", "Add soy sauce and toss well", "Add spring onions and sesame oil", "Season with white pepper", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "5 minutes",
+    "cook_time": "8 minutes"
+  },
+  {
+    "recipe_name": "Wonton Soup",
+    "ingredients": ["Wonton wrappers 20", "Ground pork 200g", "Shrimp 100g", "Ginger 1 inch", "Soy sauce 1 tbsp", "Chicken stock 4 cups", "Bok choy 2 cups", "Spring onions for garnish", "Sesame oil 1 tsp", "Salt to taste"],
+    "instructions": ["Mix pork, shrimp, and ginger for filling", "Place filling in wrapper and fold", "Bring stock to boil", "Add wontons and cook for 5 minutes", "Add bok choy", "Add soy sauce and sesame oil", "Garnish with spring onions", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Soup",
+    "prep_time": "30 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "General Tso Chicken",
+    "ingredients": ["Chicken thighs 500g", "Soy sauce 2 tbsp", "Rice vinegar 1 tbsp", "Sugar 2 tbsp", "Garlic 3 cloves", "Ginger 1 inch", "Dried red chili 6", "Cornflour 3 tbsp", "Egg 1", "Oil for frying", "Spring onions for garnish"],
+    "instructions": ["Cut chicken into pieces", "Coat with egg and cornflour", "Deep fry until golden and crispy", "Mix soy sauce, vinegar, and sugar", "Heat oil and fry chili, garlic, and ginger", "Add sauce and simmer until thick", "Add fried chicken and toss", "Garnish with spring onions", "Serve with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Chinese Cabbage Stir Fry",
+    "ingredients": ["Chinese cabbage 1 head", "Garlic 3 cloves", "Ginger 1 inch", "Soy sauce 1 tbsp", "Sesame oil 1 tsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Cut cabbage into bite-sized pieces", "Heat oil and add garlic and ginger", "Add cabbage and stir fry on high heat", "Add soy sauce and toss", "Cook until tender but still crisp", "Add sesame oil", "Serve hot as side dish"],
+    "cuisine": "Chinese",
+    "meal_type": "Vegetable Side",
+    "prep_time": "10 minutes",
+    "cook_time": "5 minutes"
+  },
+  {
+    "recipe_name": "Char Siu",
+    "ingredients": ["Pork shoulder 600g", "Hoisin sauce 3 tbsp", "Soy sauce 2 tbsp", "Honey 3 tbsp", "Garlic 3 cloves", "Five spice powder 1 tsp", "Red food coloring 1/2 tsp", "Salt to taste"],
+    "instructions": ["Cut pork into long strips", "Mix all ingredients for marinade", "Marinate pork for 4 hours", "Preheat oven to 375F", "Place pork on wire rack", "Roast for 30 minutes basting occasionally", "Increase heat to 425F and caramelize", "Slice and serve with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "4 hours",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Dan Dan Noodles",
+    "ingredients": ["Noodles 300g", "Ground pork 200g", "Sichuan pepper 1 tsp", "Chili oil 2 tbsp", "Soy sauce 2 tbsp", "Sesame paste 2 tbsp", "Garlic 2 cloves", "Spring onions 3", "Peanuts crushed 2 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Cook noodles and drain", "Heat oil and brown pork", "Add Sichuan pepper and garlic", "Mix sesame paste, soy sauce, and chili oil", "Toss noodles with sauce", "Top with pork mixture", "Garnish with spring onions and peanuts", "Serve immediately"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Egg Drop Soup",
+    "ingredients": ["Chicken stock 4 cups", "Eggs 2 beaten", "Cornflour 2 tbsp", "Soy sauce 1 tbsp", "Sesame oil 1 tsp", "Spring onions 2 chopped", "White pepper 1/4 tsp", "Salt to taste"],
+    "instructions": ["Bring chicken stock to boil", "Add soy sauce and white pepper", "Thicken with cornflour slurry", "Drizzle beaten egg while stirring slowly", "Add sesame oil", "Garnish with spring onions", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Soup",
+    "prep_time": "5 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Sichuan Green Beans",
+    "ingredients": ["Green beans 500g", "Ground pork 100g", "Sichuan pepper 1 tsp", "Dried chili 4", "Garlic 3 cloves", "Soy sauce 1 tbsp", "Sugar 1 tsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Trim and cut green beans", "Deep fry beans until wrinkled", "Remove and set aside", "Heat oil and brown pork", "Add garlic, chili, and Sichuan pepper", "Add green beans and toss", "Add soy sauce and sugar", "Serve hot as side dish"],
+    "cuisine": "Chinese",
+    "meal_type": "Vegetable Side",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Shrimp Dumplings",
+    "ingredients": ["Wonton wrappers 24", "Shrimp 400g", "Water chestnuts 1/2 cup", "Ginger 1 inch", "Soy sauce 1 tbsp", "Sesame oil 1 tsp", "Spring onions 3", "Salt to taste"],
+    "instructions": ["Chop shrimp and water chestnuts", "Mix with ginger, soy sauce, and sesame oil", "Add spring onions", "Place filling on wrapper", "Pleat and seal", "Steam for 6-8 minutes", "Serve with soy sauce and vinegar dip"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "25 minutes",
+    "cook_time": "8 minutes"
+  },
+  {
+    "recipe_name": "Beef and Broccoli",
+    "ingredients": ["Beef sirloin 400g", "Broccoli 2 cups florets", "Soy sauce 3 tbsp", "Garlic 3 cloves", "Ginger 1 inch", "Cornflour 1 tbsp", "Oyster sauce 1 tbsp", "Sesame oil 1 tsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Slice beef thinly against grain", "Marinate with soy sauce and cornflour", "Blanch broccoli in boiling water", "Heat oil and sear beef quickly", "Remove and set aside", "Stir fry garlic and ginger", "Add oyster sauce and broccoli", "Add beef and toss", "Serve hot with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Ma Po Tofu",
+    "ingredients": ["Silken tofu 400g", "Ground pork 150g", "Doubanjiang 2 tbsp", "Sichuan peppercorns 1 tsp", "Garlic 3 cloves", "Ginger 1 inch", "Spring onions 4", "Soy sauce 1 tbsp", "Cornflour slurry", "Oil 2 tbsp"],
+    "instructions": ["Cut tofu into 1-inch cubes", "Blanch tofu in salted water for 2 minutes", "Heat oil and cook ground pork", "Add doubanjiang, garlic, and ginger", "Add tofu and gently stir", "Add soy sauce and simmer for 5 minutes", "Add cornflour slurry to thicken", "Sprinkle Sichuan pepper and spring onions", "Serve with steamed rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Peking Duck",
+    "ingredients": ["Whole duck 2kg", "Honey 3 tbsp", "Soy sauce 2 tbsp", "Five spice powder 1 tsp", "Ginger 2 inch", "Spring onions 4", "Peking duck pancakes 12", "Hoisin sauce for serving", "Cucumber strips for serving"],
+    "instructions": ["Clean duck and pat dry", "Pour boiling water over skin to tighten", "Mix honey and soy sauce and brush over duck", "Rub five spice inside cavity", "Air dry for 4 hours", "Roast at 350F for 1 hour", "Increase to 400F for 30 minutes until crispy", "Slice skin and meat thinly", "Serve with pancakes, hoisin, and cucumber"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "4 hours",
+    "cook_time": "90 minutes"
+  },
+  {
+    "recipe_name": "Wontons in Chili Oil",
+    "ingredients": ["Wonton wrappers 20", "Ground pork 200g", "Shrimp 100g", "Ginger 1 inch", "Soy sauce 2 tbsp", "Chili oil 3 tbsp", "Rice vinegar 1 tbsp", "Garlic 2 cloves", "Spring onions for garnish", "Sesame seeds for garnish"],
+    "instructions": ["Mix pork, shrimp, and ginger for filling", "Fill wontons and seal", "Boil wontons until they float", "Mix chili oil, soy sauce, and vinegar", "Toss wontons in chili sauce", "Garnish with spring onions and sesame seeds", "Serve as appetizer"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "30 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Yangzhou Fried Rice",
+    "ingredients": ["Cooked rice 3 cups", "BBQ pork 150g", "Shrimp 100g", "Eggs 2", "Peas 1/2 cup", "Carrots 1/2 cup diced", "Spring onions 3", "Soy sauce 2 tbsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Dice BBQ pork into small cubes", "Heat oil and scramble eggs", "Add shrimp and cook until pink", "Add vegetables and stir fry", "Add cold rice and break clumps", "Add BBQ pork and toss well", "Add soy sauce and spring onions", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Chinese Dumplings",
+    "ingredients": ["Dumpling wrappers 30", "Ground pork 300g", "Cabbage 1 cup finely chopped", "Ginger 1 inch grated", "Garlic 2 cloves", "Soy sauce 2 tbsp", "Sesame oil 1 tbsp", "Spring onions 3", "Salt to taste"],
+    "instructions": ["Mix pork, cabbage, ginger, and garlic", "Add soy sauce, sesame oil, and spring onions", "Place filling on wrapper", "Fold and pleat to seal", "Pan fry with water and cover to steam", "Cook until bottoms are golden and crispy", "Serve with soy-vinegar dip"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "40 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Szechuan Chicken",
+    "ingredients": ["Chicken breast 400g", "Sichuan pepper 1 tsp", "Dried red chili 8", "Soy sauce 2 tbsp", "Rice vinegar 1 tbsp", "Sugar 1 tbsp", "Garlic 3 cloves", "Ginger 1 inch", "Cornflour 1 tbsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Cut chicken into small pieces", "Coat with cornflour and salt", "Heat oil and fry dried chili", "Add chicken and cook until golden", "Add garlic and ginger", "Mix soy sauce, vinegar, and sugar", "Add sauce to chicken and toss", "Sprinkle Sichuan pepper", "Serve with steamed rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Chinese Steamed Fish",
+    "ingredients": ["Whole fish 1 (about 600g)", "Ginger 2 inch julienned", "Spring onions 4 julienned", "Soy sauce 2 tbsp", "Sesame oil 1 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Clean fish and make slits on both sides", "Place ginger in slits and cavity", "Steam fish on high heat for 10 minutes", "Pour out fish water", "Top with fresh ginger and spring onions", "Heat oil until smoking", "Pour hot oil over aromatics", "Pour soy sauce around fish", "Serve immediately"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "12 minutes"
+  },
+  {
+    "recipe_name": "Shrimp Mei Fun",
+    "ingredients": ["Rice vermicelli 300g", "Shrimp 200g", "Eggs 2", "Cabbage 2 cups shredded", "Carrots 1 cup", "Soy sauce 2 tbsp", "Garlic 3 cloves", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Soak rice vermicelli in warm water until soft", "Drain well", "Heat oil and scramble eggs", "Add shrimp and cook", "Add garlic and vegetables", "Add noodles and soy sauce", "Toss everything on high heat", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Chinese BBQ Pork Ribs",
+    "ingredients": ["Pork ribs 1kg", "Hoisin sauce 4 tbsp", "Honey 3 tbsp", "Soy sauce 2 tbsp", "Garlic 4 cloves", "Five spice powder 1 tsp", "Rice vinegar 1 tbsp", "Salt to taste"],
+    "instructions": ["Mix hoisin, honey, soy sauce, and spices", "Marinate ribs for 4 hours", "Preheat oven to 350F", "Wrap ribs in foil and bake for 1 hour", "Uncover and brush with glaze", "Increase heat to 425F", "Roast for 15 minutes until caramelized", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "4 hours",
+    "cook_time": "75 minutes"
+  },
+  {
+    "recipe_name": "Hot Pot",
+    "ingredients": ["Sliced beef 300g", "Sliced lamb 300g", "Tofu 200g", "Mushrooms 2 cups", "Bok choy 2 cups", "Napa cabbage 2 cups", "Hot pot broth 6 cups", "Dipping sauces for serving"],
+    "instructions": ["Prepare hot pot broth in electric pot", "Arrange all ingredients on platters", "Bring broth to boil", "Cook ingredients in broth as needed", "Dip cooked items in sauces", "Enjoy communal cooking experience"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Chinese Eggplant with Garlic Sauce",
+    "ingredients": ["Chinese eggplant 3", "Garlic 5 cloves", "Ginger 1 inch", "Soy sauce 2 tbsp", "Rice vinegar 1 tbsp", "Sugar 1 tbsp", "Chili bean paste 1 tbsp", "Cornflour 1 tbsp", "Oil 4 tbsp", "Spring onions for garnish"],
+    "instructions": ["Cut eggplant into finger-length strips", "Salt and set aside for 15 minutes", "Pat dry with paper towel", "Deep fry eggplant until soft", "Remove and drain oil", "Stir fry garlic and ginger", "Add sauces and sugar", "Add eggplant and toss", "Thicken with cornflour slurry", "Garnish and serve"],
+    "cuisine": "Chinese",
+    "meal_type": "Vegetable Side",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Century Egg Congee",
+    "ingredients": ["Rice 1 cup", "Century eggs 2", "Chicken stock 6 cups", "Ginger 1 inch", "Spring onions 3", "Sesame oil 1 tsp", "Salt to taste", "White pepper 1/2 tsp"],
+    "instructions": ["Wash rice and soak for 30 minutes", "Bring stock to boil", "Add rice and ginger", "Simmer on low heat for 45 minutes", "Stir occasionally to prevent sticking", "Dice century eggs and add to congee", "Season with salt and white pepper", "Garnish with spring onions and sesame oil", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Breakfast",
+    "prep_time": "10 minutes",
+    "cook_time": "50 minutes"
+  },
+  {
+    "recipe_name": "Crispy Fried Chicken",
+    "ingredients": ["Chicken wings 500g", "Soy sauce 2 tbsp", "Garlic 3 cloves", "Five spice powder 1 tsp", "Cornflour 1/2 cup", "Oil for frying", "Salt to taste"],
+    "instructions": ["Marinate chicken with soy sauce, garlic, and spices", "Coat with cornflour", "Heat oil for deep frying", "Fry chicken until golden and crispy", "Drain on paper towel", "Serve with chili salt dip"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "30 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Chinese Pan-fried Noodles",
+    "ingredients": ["Egg noodles 400g", "Mixed seafood 300g", "Bok choy 2 cups", "Carrots 1 cup", "Soy sauce 2 tbsp", "Oyster sauce 1 tbsp", "Garlic 3 cloves", "Oil 3 tbsp"],
+    "instructions": ["Cook noodles and drain well", "Pan fry noodles until crispy on one side", "Flip and fry other side", "Heat oil and stir fry garlic", "Add seafood and cook", "Add vegetables and sauces", "Pour seafood mixture over crispy noodles", "Serve immediately"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Red Cooked Pork Belly",
+    "ingredients": ["Pork belly 500g", "Soy sauce 3 tbsp", "Dark soy sauce 1 tbsp", "Sugar 2 tbsp", "Star anise 3", "Cinnamon 1 inch", "Ginger 2 inch", "Garlic 4 cloves", "Rice wine 2 tbsp", "Green onions 4"],
+    "instructions": ["Cut pork belly into 2-inch cubes", "Blanch in boiling water for 3 minutes", "Drain and rinse", "Heat oil and caramelize sugar", "Add pork and brown all sides", "Add soy sauces, wine, and spices", "Add water to just cover meat", "Simmer for 1.5 hours until tender", "Reduce sauce until thick and glossy", "Serve with steamed rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "100 minutes"
+  },
+  {
+    "recipe_name": "Chinese Scallion Pancakes",
+    "ingredients": ["All-purpose flour 2 cups", "Boiling water 3/4 cup", "Spring onions 1 cup chopped", "Sesame oil 2 tbsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix flour with boiling water", "Knead into smooth dough", "Rest for 30 minutes", "Roll dough into thin rectangle", "Brush with sesame oil and sprinkle salt", "Add spring onions evenly", "Roll up tightly into log", "Coil into spiral and flatten", "Pan fry with oil until golden and crispy", "Cut into wedges and serve"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "40 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Twice Cooked Pork",
+    "ingredients": ["Pork belly 400g", "Leek 2 stalks", "Bell pepper 2", "Doubanjiang 2 tbsp", "Soy sauce 1 tbsp", "Sugar 1 tsp", "Garlic 3 cloves", "Ginger 1 inch", "Oil 2 tbsp"],
+    "instructions": ["Boil pork belly until cooked through", "Cool and slice thinly", "Heat oil and fry pork slices until curled", "Push to side and fry doubanjiang", "Add garlic and ginger", "Add leek and bell pepper", "Add soy sauce and sugar", "Toss everything together", "Serve hot with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Chinese Mushroom Soup",
+    "ingredients": ["Dried shiitake mushrooms 8", "Fresh mushrooms 2 cups", "Chicken stock 4 cups", "Ginger 1 inch", "Soy sauce 1 tbsp", "Sesame oil 1 tsp", "Spring onions for garnish", "Salt to taste"],
+    "instructions": ["Soak dried mushrooms in warm water for 30 minutes", "Slice all mushrooms", "Bring stock to boil with ginger", "Add mushrooms and simmer for 20 minutes", "Add soy sauce and sesame oil", "Season to taste", "Garnish with spring onions", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Soup",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Salt and Pepper Tofu",
+    "ingredients": ["Firm tofu 400g", "Salt 1 tsp", "Sichuan pepper 1 tsp", "White pepper 1/2 tsp", "Garlic 3 cloves", "Red chili 2", "Spring onions 3", "Cornflour 1/4 cup", "Oil for frying"],
+    "instructions": ["Cut tofu into cubes", "Coat with cornflour", "Deep fry until golden and crispy", "Mix salt, Sichuan pepper, and white pepper", "Heat oil and fry garlic and chili", "Add fried tofu and seasoning mix", "Toss well and garnish with spring onions", "Serve hot as appetizer"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Shanghai Stir Fry",
+    "ingredients": ["Shanghai bok choy 4 heads", "Mushrooms 1 cup", "Garlic 3 cloves", "Ginger 1 inch", "Soy sauce 1 tbsp", "Oyster sauce 1 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Cut bok choy in half lengthwise", "Heat oil and add garlic and ginger", "Add mushrooms and cook", "Add bok choy and stir fry", "Add soy sauce and oyster sauce", "Cook for 2 minutes", "Serve as side dish"],
+    "cuisine": "Chinese",
+    "meal_type": "Vegetable Side",
+    "prep_time": "10 minutes",
+    "cook_time": "8 minutes"
+  },
+  {
+    "recipe_name": "Five Spice Beef",
+    "ingredients": ["Beef brisket 500g", "Five spice powder 2 tsp", "Soy sauce 3 tbsp", "Star anise 2", "Cinnamon 1 stick", "Ginger 2 inch", "Garlic 3 cloves", "Sugar 1 tbsp", "Rice wine 2 tbsp"],
+    "instructions": ["Cut beef into large chunks", "Blanch beef to remove impurities", "Heat oil and brown beef", "Add all spices and seasonings", "Add water to cover beef", "Simmer for 2 hours until fork tender", "Slice beef against grain", "Strain sauce and pour over beef", "Serve hot or cold"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "125 minutes"
+  },
+  {
+    "recipe_name": "Chinese Corn Soup",
+    "ingredients": ["Creamed corn 1 can", "Chicken stock 3 cups", "Egg 1 beaten", "Chicken breast 100g diced", "Cornflour 2 tbsp", "Sesame oil 1 tsp", "Salt to taste", "White pepper 1/4 tsp"],
+    "instructions": ["Bring stock to boil", "Add diced chicken and cook", "Add creamed corn", "Season with salt and white pepper", "Thicken with cornflour slurry", "Drizzle beaten egg while stirring", "Add sesame oil", "Serve hot"],
+    "cuisine": "Chinese",
+    "meal_type": "Soup",
+    "prep_time": "5 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Lion's Head Meatballs",
+    "ingredients": ["Ground pork 500g", "Napa cabbage 1 head", "Ginger 2 inch", "Spring onions 4", "Soy sauce 2 tbsp", "Rice wine 1 tbsp", "Cornflour 2 tbsp", "Egg 1", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix pork, ginger, spring onions, and seasonings", "Add egg and cornflour", "Form large meatballs", "Pan fry until brown on all sides", "Place cabbage leaves in pot", "Add meatballs on top", "Add stock and soy sauce", "Simmer for 45 minutes", "Serve with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "55 minutes"
+  },
+  {
+    "recipe_name": "Chinese Tea Eggs",
+    "ingredients": ["Eggs 6", "Soy sauce 3 tbsp", "Black tea leaves 2 tbsp", "Star anise 3", "Cinnamon 1 stick", "Sichuan pepper 1 tsp", "Salt 1 tsp"],
+    "instructions": ["Boil eggs for 8 minutes", "Cool and crack shells gently", "Return to pot with water", "Add soy sauce, tea, and spices", "Simmer for 1 hour", "Let cool in liquid overnight", "Peel and serve as snack"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "70 minutes"
+  },
+  {
+    "recipe_name": "Chicken with Cashews",
+    "ingredients": ["Chicken breast 400g", "Cashews 1/2 cup", "Bell pepper 2", "Soy sauce 2 tbsp", "Garlic 3 cloves", "Ginger 1 inch", "Cornflour 1 tbsp", "Sesame oil 1 tsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Cut chicken into cubes and marinate", "Heat oil and cook chicken", "Remove and set aside", "Stir fry garlic and ginger", "Add bell pepper and cashews", "Add chicken back to pan", "Add soy sauce and sesame oil", "Toss and serve with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "12 minutes"
+  },
+  {
+    "recipe_name": "Vegetable Lo Mein",
+    "ingredients": ["Egg noodles 300g", "Mixed vegetables 3 cups", "Soy sauce 3 tbsp", "Garlic 3 cloves", "Ginger 1 inch", "Sesame oil 1 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Cook noodles according to package", "Drain and toss with sesame oil", "Heat oil and add garlic and ginger", "Add vegetables and stir fry", "Add noodles and soy sauce", "Toss well on high heat", "Serve hot as main or side"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Fuqi Feipian",
+    "ingredients": ["Beef tripe 200g", "Beef tendon 200g", "Beef shank 200g", "Sichuan pepper 1 tsp", "Chili oil 3 tbsp", "Soy sauce 2 tbsp", "Rice vinegar 1 tbsp", "Garlic 3 cloves", "Roasted peanuts 1/4 cup", "Cilantro for garnish"],
+    "instructions": ["Boil tripe, tendon, and shank until tender", "Cool and slice thinly", "Mix chili oil, soy sauce, and vinegar", "Toss sliced meats with sauce", "Add Sichuan pepper and garlic", "Garnish with peanuts and cilantro", "Serve cold as appetizer"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "20 minutes",
+    "cook_time": "60 minutes"
+  },
+  {
+    "recipe_name": "Chinese Chive Dumplings",
+    "ingredients": ["Dumpling wrappers 30", "Chinese chives 2 cups chopped", "Eggs 3 scrambled", "Glass noodles 1 cup soaked", "Soy sauce 1 tbsp", "Sesame oil 1 tbsp", "Ginger 1 inch", "Salt to taste"],
+    "instructions": ["Mix chopped chives, scrambled eggs, and noodles", "Add soy sauce, sesame oil, and ginger", "Place filling on wrapper", "Fold and pleat edges", "Pan fry with water and cover", "Cook until water evaporates and bottoms are golden", "Serve with soy sauce dip"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Chinese BBQ Duck",
+    "ingredients": ["Whole duck 2kg", "Hoisin sauce 4 tbsp", "Honey 3 tbsp", "Five spice powder 1 tsp", "Soy sauce 2 tbsp", "Garlic 4 cloves", "Ginger 1 inch"],
+    "instructions": ["Clean duck and pat dry", "Mix hoisin, honey, five spice, and soy", "Rub mixture inside and outside duck", "Stuff cavity with garlic and ginger", "Roast at 350F for 1 hour", "Brush with glaze and increase heat", "Roast until skin is dark and crispy", "Slice and serve with pancakes"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "80 minutes"
+  },
+  {
+    "recipe_name": "Zha Jiang Mian",
+    "ingredients": ["Noodles 400g", "Ground pork 300g", "Sweet bean sauce 3 tbsp", "Soy sauce 1 tbsp", "Garlic 3 cloves", "Ginger 1 inch", "Cucumber 1 julienned", "Bean sprouts 1 cup", "Oil 2 tbsp"],
+    "instructions": ["Cook noodles and drain", "Heat oil and brown pork", "Add garlic, ginger, and sauces", "Simmer sauce for 10 minutes", "Top noodles with meat sauce", "Add cucumber and bean sprouts", "Mix well before eating", "Serve hot or cold"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Stir Fried Water Spinach",
+    "ingredients": ["Water spinach 500g", "Garlic 4 cloves", "Soy sauce 1 tbsp", "Sesame oil 1 tsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Wash water spinach and cut into sections", "Heat oil and add garlic", "Add water spinach and stir fry on high heat", "Add soy sauce and salt", "Cook for 2 minutes until wilted", "Add sesame oil and serve"],
+    "cuisine": "Chinese",
+    "meal_type": "Vegetable Side",
+    "prep_time": "5 minutes",
+    "cook_time": "5 minutes"
+  },
+  {
+    "recipe_name": "Chinese Beef Stew",
+    "ingredients": ["Beef chuck 600g", "Potatoes 3", "Carrots 2", "Soy sauce 3 tbsp", "Star anise 3", "Cinnamon 1 stick", "Ginger 2 inch", "Garlic 4 cloves", "Sugar 1 tbsp", "Rice wine 2 tbsp"],
+    "instructions": ["Cut beef into 2-inch cubes", "Blanch beef to remove impurities", "Heat oil and brown beef", "Add soy sauce, wine, sugar, and spices", "Add water to cover", "Simmer for 1.5 hours", "Add potatoes and carrots", "Cook for 30 more minutes", "Serve hot with rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "125 minutes"
+  },
+  {
+    "recipe_name": "Chinese Tomato and Egg Stir Fry",
+    "ingredients": ["Tomatoes 4 ripe", "Eggs 4", "Spring onions 3", "Sugar 1 tsp", "Soy sauce 1/2 tsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Cut tomatoes into wedges", "Beat eggs with pinch of salt", "Heat oil and scramble eggs until just set", "Remove eggs from pan", "Add tomatoes to pan and cook until soft", "Add sugar and soy sauce", "Return eggs and break into pieces", "Mix well and garnish with spring onions", "Serve over rice"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Biang Biang Noodles",
+    "ingredients": ["All-purpose flour 3 cups", "Water 1 cup", "Salt 1 tsp", "Garlic 4 cloves", "Chili flakes 2 tbsp", "Soy sauce 2 tbsp", "Vinegar 1 tbsp", "Hot oil 1/4 cup", "Bok choy 2 cups"],
+    "instructions": ["Mix flour, water, and salt into dough", "Knead for 10 minutes", "Rest for 1 hour", "Divide into strips and coat with oil", "Stretch each strip into wide noodle", "Boil noodles until cooked", "Top with garlic, chili flakes, soy sauce, and vinegar", "Pour hot oil over toppings", "Add blanched bok choy", "Mix and serve"],
+    "cuisine": "Chinese",
+    "meal_type": "Main Course",
+    "prep_time": "1 hour",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Chinese Fried Shrimp Balls",
+    "ingredients": ["Shrimp 400g", "Pork fat 100g", "Water chestnuts 1/2 cup", "Egg white 1", "Cornflour 2 tbsp", "Ginger 1 inch", "Soy sauce 1 tsp", "Sesame oil 1 tsp", "Oil for frying"],
+    "instructions": ["Chop shrimp and pork fat into paste", "Add chopped water chestnuts", "Add egg white, cornflour, and seasonings", "Mix vigorously until bouncy", "Shape into balls", "Deep fry until golden", "Serve with sweet chili sauce"],
+    "cuisine": "Chinese",
+    "meal_type": "Snack",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Pickled Chinese Cabbage",
+    "ingredients": ["Napa cabbage 1 head", "Salt 1/4 cup", "Garlic 6 cloves", "Ginger 2 inches", "Chili flakes 2 tbsp", "Sugar 1 tbsp"],
+    "instructions": ["Cut cabbage into quarters", "Rub salt between leaves", "Let sit for 4 hours", "Rinse and squeeze out water", "Mix garlic, ginger, chili, and sugar", "Rub mixture between cabbage leaves", "Pack into jar and seal", "Ferment at room temperature for 3 days", "Refrigerate and serve as side dish"],
+    "cuisine": "Chinese",
+    "meal_type": "Side Dish",
+    "prep_time": "30 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Chinese Almond Cookies",
+    "ingredients": ["All-purpose flour 2 cups", "Sugar 1 cup", "Butter 1/2 cup", "Almond flour 1/2 cup", "Egg 1", "Baking soda 1/2 tsp", "Almond extract 1 tsp", "Whole almonds for topping"],
+    "instructions": ["Cream butter and sugar", "Add egg and almond extract", "Mix flour, almond flour, and baking soda", "Form into dough and chill", "Shape into small balls", "Press almond on top", "Bake at 350F for 15 minutes", "Cool and store"],
+    "cuisine": "Chinese",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Sesame Balls",
+    "ingredients": ["Glutinous rice flour 2 cups", "Red bean paste 1 cup", "Sesame seeds 1/2 cup", "Sugar 1/2 cup", "Water 3/4 cup", "Oil for frying"],
+    "instructions": ["Mix rice flour, sugar, and water into dough", "Divide into balls", "Flatten and wrap red bean paste", "Roll into balls", "Coat with sesame seeds", "Deep fry on medium heat until golden", "Drain and serve warm"],
+    "cuisine": "Chinese",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes"
+  }
+]

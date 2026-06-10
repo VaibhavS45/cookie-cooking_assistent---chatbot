@@ -8,7 +8,7 @@ from pathlib import Path
 import sys
 
 # Add project to path
-project_root = Path(__file__).parent.parent
+project_root = Path(__file__).parent
 sys.path.insert(0, str(project_root))
 
 from models.retriever import RecipeRetriever
@@ -26,7 +26,7 @@ def initialize_session_state():
     if 'retriever' not in st.session_state:
         with st.spinner("Initializing Chef Annapurna..."):
             recipes_file = str(project_root / "resources" / "processed_recipes.json")
-            st.session_state.retriever = RecipeRetriever()
+            st.session_state.retriever = RecipeRetriever(cache_dir=str(project_root / "embeddings_cache"))
             st.session_state.retriever.load_recipes(recipes_file)
             st.session_state.retriever.generate_embeddings()
     if 'rag_pipeline' not in st.session_state:
@@ -53,7 +53,7 @@ def main():
     # Header
     col1, col2 = st.columns([1, 4])
     with col1:
-        st.image("🍳", use_column_width=True)
+        st.markdown("<h1 style='font-size: 60px; margin: 0;'>🍳</h1>", unsafe_allow_html=True)
     with col2:
         st.title("Chef Annapurna AI")
         st.caption("Your personal Indian master chef. Namaste!")

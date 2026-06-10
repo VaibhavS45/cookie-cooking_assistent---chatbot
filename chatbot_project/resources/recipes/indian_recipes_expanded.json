@@ -1,0 +1,893 @@
+[
+  {
+    "recipe_name": "Palak Paneer",
+    "ingredients": ["Paneer 250g", "Spinach 500g", "Onion 1", "Garlic 4 cloves", "Ginger 1 inch", "Green chili 2", "Cumin seeds 1 tsp", "Garam masala 1 tsp", "Cream 2 tbsp", "Butter 2 tbsp", "Salt to taste"],
+    "instructions": ["Blanch spinach in hot water for 2 minutes", "Blend spinach into a smooth puree", "Heat butter and add cumin seeds", "Saute onions, garlic, and ginger until golden", "Add spinach puree and cook for 10 minutes", "Add garam masala and salt", "Add paneer cubes and cream", "Simmer for 5 minutes and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Chana Masala",
+    "ingredients": ["Chickpeas 2 cups boiled", "Onion 2", "Tomato 3", "Ginger-garlic paste 2 tbsp", "Cumin seeds 1 tsp", "Coriander powder 2 tsp", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Garam masala 1 tsp", "Oil 3 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Heat oil and add cumin seeds", "Saute chopped onions until golden", "Add ginger-garlic paste and cook for 1 minute", "Add chopped tomatoes and spices", "Cook until oil separates", "Add boiled chickpeas and 1 cup water", "Simmer for 15 minutes", "Garnish with cilantro and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Masala Dosa",
+    "ingredients": ["Rice 2 cups", "Urad dal 1 cup", "Fenugreek seeds 1 tsp", "Potatoes 4 boiled", "Onion 1", "Mustard seeds 1 tsp", "Curry leaves 10", "Turmeric 1/2 tsp", "Green chili 2", "Oil for cooking", "Salt to taste"],
+    "instructions": ["Soak rice and urad dal with fenugreek seeds for 6 hours", "Grind to a smooth batter and ferment overnight", "Mash boiled potatoes", "Heat oil and add mustard seeds and curry leaves", "Saute onions and green chili", "Add potatoes, turmeric, and salt", "Mix well for potato filling", "Pour batter on hot griddle and spread thin", "Add filling and fold", "Serve with chutney"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Rogan Josh",
+    "ingredients": ["Lamb 500g", "Yogurt 1 cup", "Onion 2", "Ginger-garlic paste 2 tbsp", "Kashmiri chili powder 2 tsp", "Coriander powder 1 tsp", "Turmeric 1/2 tsp", "Cinnamon 1 inch", "Cardamom 4", "Cloves 3", "Ghee 4 tbsp", "Salt to taste"],
+    "instructions": ["Heat ghee and add whole spices", "Saute sliced onions until deep brown", "Add ginger-garlic paste and cook", "Add lamb pieces and brown on all sides", "Add chili powder, coriander, and turmeric", "Add yogurt and mix well", "Cover and cook on low heat for 45 minutes", "Garnish and serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "60 minutes"
+  },
+  {
+    "recipe_name": "Samosas",
+    "ingredients": ["All-purpose flour 2 cups", "Potatoes 4 boiled", "Peas 1/2 cup", "Cumin seeds 1 tsp", "Garam masala 1 tsp", "Chili powder 1 tsp", "Green chili 2", "Ginger 1 inch", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix flour with oil and water to make dough", "Rest dough for 30 minutes", "Mash potatoes and mix with peas", "Heat oil and add cumin seeds", "Add ginger, green chili, and spices", "Mix with potato mixture", "Roll dough into small circles and cut in half", "Form cones and fill with potato mixture", "Deep fry until golden", "Serve with chutney"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "30 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Fish Curry",
+    "ingredients": ["Fish fillets 500g", "Coconut milk 2 cups", "Onion 1", "Tomato 2", "Ginger-garlic paste 2 tbsp", "Turmeric 1 tsp", "Chili powder 2 tsp", "Coriander powder 1 tsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Marinate fish with turmeric and salt for 10 minutes", "Heat oil and add mustard seeds and curry leaves", "Saute onions until golden", "Add ginger-garlic paste and cook", "Add tomatoes and spices", "Add coconut milk and bring to simmer", "Gently add fish pieces", "Cook for 10 minutes until fish is done", "Serve with rice"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Pulao",
+    "ingredients": ["Basmati rice 2 cups", "Mixed vegetables 1 cup", "Onion 1", "Ghee 3 tbsp", "Cinnamon 1 inch", "Cardamom 3", "Cloves 3", "Bay leaf 1", "Ginger-garlic paste 1 tbsp", "Garam masala 1 tsp", "Salt to taste"],
+    "instructions": ["Wash and soak rice for 15 minutes", "Heat ghee and add whole spices", "Saute sliced onions until golden", "Add ginger-garlic paste and cook", "Add mixed vegetables and garam masala", "Add rice and saute for 2 minutes", "Add 4 cups hot water and salt", "Cover and cook on low heat for 15 minutes", "Fluff with fork and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Onion Bhaji",
+    "ingredients": ["Onion 3 large sliced", "Chickpea flour 1 cup", "Rice flour 2 tbsp", "Chili powder 1 tsp", "Turmeric 1/2 tsp", "Cumin seeds 1 tsp", "Green chili 1 chopped", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix chickpea flour, rice flour, and spices", "Add water gradually to make thick batter", "Add sliced onions and mix well", "Heat oil for deep frying", "Drop spoonfuls of batter into hot oil", "Fry until golden brown on all sides", "Drain on paper towel", "Serve hot with chutney"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Gulab Jamun",
+    "ingredients": ["Milk powder 1 cup", "All-purpose flour 2 tbsp", "Ghee 2 tbsp", "Milk 2 tbsp", "Baking soda 1/4 tsp", "Sugar 2 cups", "Cardamom 2 pods", "Rose water 1 tsp", "Oil for frying"],
+    "instructions": ["Mix milk powder, flour, ghee, and baking soda", "Add milk gradually to form soft dough", "Rest for 10 minutes", "Make sugar syrup with 2 cups sugar and 1 cup water", "Add cardamom and rose water", "Shape dough into small smooth balls", "Deep fry on low heat until golden", "Soak in warm sugar syrup for 2 hours", "Serve warm or cold"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Rasmalai",
+    "ingredients": ["Milk 2 liters", "Lemon juice 2 tbsp", "Sugar 2 cups", "Cardamom powder 1 tsp", "Saffron 1/4 tsp", "Pistachios 2 tbsp chopped", "Almonds 2 tbsp sliced", "Rose water 1 tsp"],
+    "instructions": ["Boil milk and add lemon juice to curdle", "Strain and rinse the chenna", "Knead chenna until smooth", "Shape into small discs", "Boil sugar with 4 cups water", "Add chenna discs and cook for 10 minutes", "Heat milk and reduce to half", "Add cardamom, saffron, and sugar", "Soak chenna discs in thickened milk", "Refrigerate and serve chilled with nuts"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "30 minutes",
+    "cook_time": "40 minutes"
+  },
+  {
+    "recipe_name": "Aloo Paratha",
+    "ingredients": ["Whole wheat flour 2 cups", "Potatoes 3 boiled", "Green chili 2 chopped", "Ginger 1 inch grated", "Cumin powder 1 tsp", "Chili powder 1 tsp", "Ghee for cooking", "Salt to taste"],
+    "instructions": ["Mix flour with water to make dough", "Rest for 15 minutes", "Mash potatoes and mix with spices", "Roll dough into small circles", "Place potato filling in center", "Seal and roll out into paratha", "Cook on hot griddle with ghee", "Cook both sides until golden", "Serve with yogurt and pickle"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "20 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Kadai Paneer",
+    "ingredients": ["Paneer 250g", "Capsicum 2", "Onion 2", "Tomato 4", "Ginger-garlic paste 2 tbsp", "Coriander seeds 2 tsp crushed", "Cumin seeds 1 tsp", "Chili powder 1 tsp", "Garam masala 1 tsp", "Cream 2 tbsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Cut paneer and vegetables into cubes", "Heat oil and add cumin seeds", "Add crushed coriander seeds", "Saute onions and capsicum", "Add ginger-garlic paste and cook", "Add tomato puree and spices", "Cook until oil separates", "Add paneer cubes and cream", "Cook for 3 minutes and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Idli",
+    "ingredients": ["Idli rice 3 cups", "Urad dal 1 cup", "Fenugreek seeds 1 tsp", "Salt to taste"],
+    "instructions": ["Soak rice and urad dal separately for 6 hours", "Grind urad dal to smooth paste", "Grind rice to slightly coarse paste", "Mix both batters with salt", "Ferment overnight", "Pour batter into idli molds", "Steam for 10 minutes", "Serve hot with chutney and sambar"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Sambar",
+    "ingredients": ["Toor dal 1 cup", "Mixed vegetables 2 cups", "Tamarind extract 2 tbsp", "Sambar powder 2 tbsp", "Turmeric 1/2 tsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Asafetida 1/4 tsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Boil toor dal with turmeric until soft", "Add chopped vegetables and cook", "Add tamarind extract and sambar powder", "Simmer for 15 minutes", "Heat oil and add mustard seeds", "Add curry leaves and asafetida", "Pour tempering over sambar", "Serve hot with rice or idli"],
+    "cuisine": "Indian",
+    "meal_type": "Lentil Dish",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Chicken Curry",
+    "ingredients": ["Chicken 500g", "Onion 2", "Tomato 3", "Ginger-garlic paste 2 tbsp", "Cumin seeds 1 tsp", "Coriander powder 2 tsp", "Chili powder 1 tsp", "Turmeric 1/2 tsp", "Garam masala 1 tsp", "Oil 3 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Heat oil and add cumin seeds", "Saute sliced onions until brown", "Add ginger-garlic paste and cook", "Add chopped tomatoes and spices", "Cook until oil separates", "Add chicken pieces and brown", "Add 1 cup warm water and cover", "Cook for 25 minutes until chicken is tender", "Garnish with cilantro and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Raita",
+    "ingredients": ["Yogurt 2 cups", "Cucumber 1 grated", "Onion 1 chopped", "Tomato 1 chopped", "Cumin powder 1 tsp", "Chili powder 1/2 tsp", "Mint leaves 10", "Salt to taste"],
+    "instructions": ["Beat yogurt until smooth", "Add grated cucumber and chopped vegetables", "Add cumin powder, chili powder, and salt", "Mix well", "Garnish with mint leaves", "Chill before serving"],
+    "cuisine": "Indian",
+    "meal_type": "Side Dish",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Naan Bread",
+    "ingredients": ["All-purpose flour 3 cups", "Yeast 1 tsp", "Yogurt 1/4 cup", "Milk 1/2 cup", "Ghee 2 tbsp", "Sugar 1 tsp", "Garlic butter for topping", "Salt to taste"],
+    "instructions": ["Mix yeast with warm water and sugar", "Let it activate for 5 minutes", "Mix flour, yogurt, milk, and salt", "Add yeast mixture and knead into soft dough", "Let rise for 2 hours", "Divide into balls and roll out", "Cook on hot griddle until bubbles form", "Brush with garlic butter and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Bread",
+    "prep_time": "2 hours",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Kheer",
+    "ingredients": ["Rice 1/4 cup", "Milk 4 cups", "Sugar 1/2 cup", "Cardamom 2 pods", "Saffron 1/4 tsp", "Raisins 2 tbsp", "Almonds 2 tbsp sliced", "Pistachios 2 tbsp chopped"],
+    "instructions": ["Wash and soak rice for 15 minutes", "Boil milk in heavy bottom pan", "Add rice and cook on low heat", "Stir occasionally to prevent sticking", "Cook until rice is soft and milk thickens", "Add sugar and mix well", "Add cardamom and saffron", "Garnish with nuts and raisins", "Serve warm or chilled"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "10 minutes",
+    "cook_time": "45 minutes"
+  },
+  {
+    "recipe_name": "Tandoori Chicken",
+    "ingredients": ["Chicken 1 whole", "Yogurt 1 cup", "Tandoori masala 2 tbsp", "Chili powder 1 tsp", "Turmeric 1/2 tsp", "Ginger-garlic paste 2 tbsp", "Lemon juice 2 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Make deep cuts on chicken pieces", "Mix yogurt with all spices", "Add ginger-garlic paste and lemon juice", "Marinate chicken for 4 hours", "Preheat oven to 400F", "Place chicken on baking tray", "Brush with oil and bake for 30 minutes", "Serve with onion rings and lemon"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "4 hours",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Dosa",
+    "ingredients": ["Rice 2 cups", "Urad dal 1 cup", "Fenugreek seeds 1/2 tsp", "Poha 1/4 cup", "Salt to taste"],
+    "instructions": ["Soak rice and urad dal for 6 hours", "Add poha and grind to smooth batter", "Ferment overnight", "Add salt and mix well", "Heat non-stick griddle", "Pour ladleful of batter and spread thin", "Drizzle oil around edges", "Cook until golden and crispy", "Fold and serve with chutney"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Vada",
+    "ingredients": ["Urad dal 1 cup", "Green chili 2 chopped", "Ginger 1 inch grated", "Curry leaves 10", "Black pepper 1 tsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Soak urad dal for 4 hours", "Grind to thick paste without water", "Add chopped chili, ginger, and curry leaves", "Add salt and pepper", "Shape into donut shapes with wet hands", "Deep fry until golden and crispy", "Serve hot with chutney and sambar"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "4 hours",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Malai Kofta",
+    "ingredients": ["Paneer 200g", "Potatoes 2 boiled", "Cream 1/2 cup", "Tomato puree 1 cup", "Onion 1", "Cashews 1/4 cup", "Ginger-garlic paste 2 tbsp", "Garam masala 1 tsp", "Chili powder 1 tsp", "Sugar 1 tsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mash paneer and potatoes together", "Season with salt and spices", "Shape into balls and deep fry", "Blend cashews and cream to paste", "Heat oil and saute onions", "Add ginger-garlic paste and tomato puree", "Add cashew cream and spices", "Simmer gravy for 10 minutes", "Add kofta balls just before serving"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Upma",
+    "ingredients": ["Semolina 1 cup", "Onion 1", "Green chili 2", "Ginger 1 inch", "Mustard seeds 1 tsp", "Curry leaves 10", "Peanuts 2 tbsp", "Ghee 2 tbsp", "Lemon juice 1 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Roast semolina in dry pan until fragrant", "Heat ghee and add mustard seeds", "Add curry leaves, peanuts, and sliced onion", "Add ginger and green chili", "Add 2 cups hot water and salt", "Slowly add roasted semolina while stirring", "Cover and cook for 5 minutes", "Add lemon juice and garnish", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Pav Bhaji",
+    "ingredients": ["Mixed vegetables 3 cups", "Pav buns 8", "Onion 2", "Tomato 3", "Green chili 2", "Ginger-garlic paste 1 tbsp", "Pav bhaji masala 2 tbsp", "Chili powder 1 tsp", "Butter 4 tbsp", "Lemon juice 1 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Boil and mash mixed vegetables", "Heat butter and saute onions", "Add ginger-garlic paste and green chili", "Add chopped tomatoes and cook", "Add pav bhaji masala and chili powder", "Add mashed vegetables and mix", "Mash everything together while cooking", "Toast pav buns with butter", "Serve bhaji with pav and lemon"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Bhindi Masala",
+    "ingredients": ["Okra 500g", "Onion 2", "Tomato 2", "Ginger-garlic paste 1 tbsp", "Cumin seeds 1 tsp", "Coriander powder 1 tsp", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Amchur powder 1 tsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Wash okra and pat completely dry", "Slice okra into rounds", "Heat oil and add cumin seeds", "Add sliced okra and fry until crisp", "Remove and set aside", "In same pan saute onions", "Add ginger-garlic paste and tomatoes", "Add spices and cook", "Add fried okra and mix", "Cook for 2 minutes and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Vegetable Side",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Jeera Rice",
+    "ingredients": ["Basmati rice 2 cups", "Cumin seeds 2 tsp", "Ghee 2 tbsp", "Green chili 1", "Salt to taste"],
+    "instructions": ["Wash and soak rice for 15 minutes", "Heat ghee in a pan", "Add cumin seeds and let them crackle", "Add green chili", "Add rice and saute for 2 minutes", "Add 4 cups hot water and salt", "Cover and cook on low heat for 15 minutes", "Fluff with fork and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Side Dish",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Dal Makhani",
+    "ingredients": ["Black lentils 1 cup", "Red beans 1/4 cup", "Butter 4 tbsp", "Cream 1/4 cup", "Onion 2", "Tomato 3", "Ginger-garlic paste 2 tbsp", "Garam masala 1 tsp", "Chili powder 1 tsp", "Turmeric 1/2 tsp", "Salt to taste"],
+    "instructions": ["Soak lentils and beans overnight", "Boil until soft and mash slightly", "Heat butter and saute onions", "Add ginger-garlic paste and tomatoes", "Add spices and cook", "Add lentils and simmer for 30 minutes", "Add cream and stir", "Cook on low heat for 10 more minutes", "Serve hot with naan"],
+    "cuisine": "Indian",
+    "meal_type": "Lentil Dish",
+    "prep_time": "15 minutes",
+    "cook_time": "50 minutes"
+  },
+  {
+    "recipe_name": "Lassi",
+    "ingredients": ["Yogurt 2 cups", "Milk 1/2 cup", "Sugar 3 tbsp", "Cardamom powder 1/2 tsp", "Ice cubes 4", "Saffron for garnish"],
+    "instructions": ["Blend yogurt, milk, sugar, and cardamom", "Add ice cubes and blend until smooth", "Pour into glasses", "Garnish with saffron strands", "Serve chilled"],
+    "cuisine": "Indian",
+    "meal_type": "Beverage",
+    "prep_time": "5 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Chole Bhature",
+    "ingredients": ["Chickpeas 2 cups boiled", "All-purpose flour 3 cups", "Yogurt 1/2 cup", "Onion 2", "Tomato 3", "Ginger-garlic paste 2 tbsp", "Chole masala 2 tbsp", "Tea bag 1", "Baking powder 1/2 tsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix flour, yogurt, and baking powder", "Knead into soft dough and rest for 2 hours", "Boil chickpeas with tea bag for color", "Heat oil and saute onions", "Add ginger-garlic paste and tomatoes", "Add chole masala and chickpeas", "Simmer for 15 minutes", "Roll bhature and deep fry", "Serve chole with bhature and onion"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "2 hours",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Mango Lassi",
+    "ingredients": ["Yogurt 1 cup", "Mango pulp 1 cup", "Milk 1/2 cup", "Sugar 2 tbsp", "Cardamom powder 1/4 tsp", "Ice cubes 4"],
+    "instructions": ["Blend mango pulp, yogurt, and milk", "Add sugar and cardamom", "Add ice cubes and blend", "Pour into glasses", "Serve immediately"],
+    "cuisine": "Indian",
+    "meal_type": "Beverage",
+    "prep_time": "5 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Pani Puri",
+    "ingredients": ["Puris 20", "Potatoes 3 boiled", "Chickpeas 1/2 cup boiled", "Onion 1 chopped", "Mint leaves 1 cup", "Coriander leaves 1/2 cup", "Green chili 4", "Tamarind pulp 2 tbsp", "Chaats masala 1 tsp", "Cumin powder 1 tsp", "Black salt 1 tsp", "Salt to taste"],
+    "instructions": ["Blend mint, coriander, green chili into paste", "Mix with tamarind pulp, spices, and water", "Make spicy pani water", "Mash potatoes and mix with chickpeas", "Add chopped onion and spices", "Crack each puri and add filling", "Pour pani into each puri", "Serve immediately"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "20 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Dahi Vada",
+    "ingredients": ["Urad dal 1 cup", "Yogurt 2 cups", "Green chili 2", "Ginger 1 inch", "Cumin powder 1 tsp", "Chili powder 1 tsp", "Tamarind chutney 2 tbsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Soak urad dal for 4 hours", "Grind to smooth paste", "Add chopped chili and ginger", "Make small balls and deep fry", "Soak fried vadas in warm water for 10 minutes", "Squeeze out water gently", "Arrange in serving dish", "Pour beaten yogurt over vadas", "Top with chutneys and spices", "Chill before serving"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "4 hours",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Baingan Bharta",
+    "ingredients": ["Eggplant 1 large", "Onion 2", "Tomato 3", "Green chili 2", "Ginger-garlic paste 2 tbsp", "Cumin seeds 1 tsp", "Mustard seeds 1 tsp", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Oil 3 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Roast whole eggplant over flame until skin chars", "Cool and peel skin", "Mash the roasted flesh", "Heat oil and add cumin and mustard seeds", "Saute onions until golden", "Add ginger-garlic paste and green chili", "Add tomatoes and spices", "Add mashed eggplant and cook for 10 minutes", "Garnish with cilantro and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Vegetable Side",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Korma",
+    "ingredients": ["Chicken or vegetables 500g", "Yogurt 1 cup", "Coconut 1/2 cup grated", "Onion 2", "Ginger-garlic paste 2 tbsp", "Cashews 1/4 cup", "Garam masala 1 tsp", "Turmeric 1/2 tsp", "Chili powder 1/2 tsp", "Ghee 3 tbsp", "Salt to taste"],
+    "instructions": ["Blend coconut and cashews to paste", "Heat ghee and saute sliced onions", "Add ginger-garlic paste and cook", "Add chicken or vegetables", "Add yogurt and cook for 5 minutes", "Add coconut-cashew paste", "Add garam masala and other spices", "Cover and cook until done", "Serve with rice or naan"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Methi Thepla",
+    "ingredients": ["Whole wheat flour 2 cups", "Fenugreek leaves 1 cup chopped", "Yogurt 1/2 cup", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Cumin seeds 1 tsp", "Ginger paste 1 tsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Mix flour with chopped methi leaves", "Add yogurt, spices, and ginger paste", "Knead into firm dough", "Add oil and knead again", "Rest for 15 minutes", "Roll into thin circles", "Cook on hot griddle with oil", "Cook both sides until golden spots appear", "Serve with pickle or yogurt"],
+    "cuisine": "Indian",
+    "meal_type": "Bread",
+    "prep_time": "20 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Kaju Katli",
+    "ingredients": ["Cashews 2 cups", "Sugar 1 cup", "Water 1/2 cup", "Ghee 1 tsp", "Cardamom powder 1/2 tsp", "Silver varq for garnish"],
+    "instructions": ["Grind cashews to fine powder", "Make sugar syrup of one-string consistency", "Add cashew powder and mix quickly", "Add ghee and cardamom", "Spread mixture on greased surface", "Roll to 1/4 inch thickness", "Cut into diamond shapes", "Garnish with silver varq", "Store in airtight container"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Poha",
+    "ingredients": ["Poha 2 cups", "Potato 1", "Onion 1", "Peanuts 2 tbsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Turmeric 1/2 tsp", "Green chili 2", "Lemon juice 1 tbsp", "Sugar 1 tsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Wash poha and drain water", "Keep aside for 5 minutes", "Heat oil and add mustard seeds", "Add peanuts and curry leaves", "Add chopped onion and potato", "Cook until potato is tender", "Add turmeric, chili, and salt", "Add poha and mix gently", "Add sugar and lemon juice", "Garnish with cilantro and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Shahi Tukda",
+    "ingredients": ["Bread slices 8", "Milk 2 cups", "Sugar 1/2 cup", "Cardamom 2 pods", "Saffron 1/4 tsp", "Ghee for frying", "Almonds 2 tbsp sliced", "Pistachios 2 tbsp chopped", "Rose water 1 tsp"],
+    "instructions": ["Cut bread into triangles", "Fry in ghee until golden", "Boil milk and reduce to half", "Add sugar, cardamom, and saffron", "Layer fried bread in serving dish", "Pour reduced milk over bread", "Garnish with sliced nuts", "Refrigerate for 2 hours", "Serve chilled"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Egg Curry",
+    "ingredients": ["Eggs 6 boiled", "Onion 2", "Tomato 3", "Ginger-garlic paste 2 tbsp", "Cumin seeds 1 tsp", "Coriander powder 2 tsp", "Chili powder 1 tsp", "Turmeric 1/2 tsp", "Garam masala 1 tsp", "Coconut milk 1/2 cup", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Heat oil and add cumin seeds", "Saute sliced onions until brown", "Add ginger-garlic paste and cook", "Add tomatoes and spices", "Add coconut milk and simmer", "Make slits on boiled eggs", "Add eggs to gravy", "Simmer for 5 minutes", "Garnish and serve with rice"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Misal Pav",
+    "ingredients": ["Moth beans 2 cups sprouted", "Pav buns 4", "Onion 1 chopped", "Tomato 2", "Ginger-garlic paste 1 tbsp", "Misal masala 2 tbsp", "Chili powder 1 tsp", "Farsan 1 cup", "Cilantro for garnish", "Lemon wedges", "Salt to taste"],
+    "instructions": ["Boil sprouted moth beans until soft", "Heat oil and saute onions", "Add ginger-garlic paste and tomatoes", "Add misal masala and chili powder", "Add boiled beans and simmer", "Toast pav buns", "Serve usal topped with farsan", "Garnish with onion and cilantro", "Serve with pav and lemon"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Dhokla",
+    "ingredients": ["Chickpea flour 2 cups", "Yogurt 1 cup", "Ginger paste 1 tsp", "Green chili paste 1 tsp", "Turmeric 1/2 tsp", "Fruit salt 1 tsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Oil 2 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Mix chickpea flour with yogurt and water", "Add ginger, chili, turmeric, and salt", "Make smooth batter", "Add fruit salt and mix gently", "Pour into greased thali", "Steam for 15 minutes", "Heat oil and add mustard seeds and curry leaves", "Pour tempering over dhokla", "Cut into squares and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Aamras",
+    "ingredients": ["Mango pulp 2 cups", "Sugar 2 tbsp", "Cardamom powder 1/2 tsp", "Milk 1/4 cup", "Saffron strands for garnish"],
+    "instructions": ["Blend mango pulp until smooth", "Add sugar and cardamom", "Add milk and blend again", "Chill for 30 minutes", "Garnish with saffron", "Serve with puris"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "5 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Mutton Curry",
+    "ingredients": ["Mutton 500g", "Onion 3", "Tomato 3", "Yogurt 1/2 cup", "Ginger-garlic paste 3 tbsp", "Coriander powder 2 tsp", "Chili powder 2 tsp", "Turmeric 1 tsp", "Garam masala 1 tsp", "Oil 4 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Heat oil and saute sliced onions until brown", "Add ginger-garlic paste and cook", "Add mutton pieces and brown", "Add tomato puree and spices", "Add yogurt and mix well", "Add 2 cups warm water", "Cover and cook for 45 minutes on low heat", "Uncover and cook until gravy thickens", "Garnish with cilantro and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "60 minutes"
+  },
+  {
+    "recipe_name": "Gajar Ka Halwa",
+    "ingredients": ["Carrots 1 kg grated", "Milk 2 cups", "Sugar 1 cup", "Ghee 4 tbsp", "Cardamom powder 1 tsp", "Khoya 1/2 cup", "Almonds 2 tbsp sliced", "Raisins 2 tbsp"],
+    "instructions": ["Grate fresh red carrots", "Heat ghee and add grated carrots", "Saute for 5 minutes", "Add milk and cook on low heat", "Stir occasionally until milk evaporates", "Add sugar and mix well", "Add khoya and cardamom", "Cook until halwa leaves sides", "Garnish with nuts and raisins", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "45 minutes"
+  },
+  {
+    "recipe_name": "Moong Dal",
+    "ingredients": ["Moong dal 1 cup", "Turmeric 1/2 tsp", "Ghee 2 tbsp", "Cumin seeds 1 tsp", "Garlic 3 cloves", "Green chili 2", "Ginger 1 inch", "Salt to taste"],
+    "instructions": ["Wash moong dal thoroughly", "Boil dal with turmeric until soft", "Heat ghee and add cumin seeds", "Add sliced garlic and green chili", "Add grated ginger", "Pour tempering over cooked dal", "Mix well and serve hot with rice"],
+    "cuisine": "Indian",
+    "meal_type": "Lentil Dish",
+    "prep_time": "5 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Coconut Chutney",
+    "ingredients": ["Coconut 1 cup grated", "Green chili 3", "Ginger 1 inch", "Roasted chana dal 2 tbsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Oil 1 tbsp", "Salt to taste"],
+    "instructions": ["Grind coconut, chili, ginger, and chana dal", "Add water gradually to make paste", "Heat oil and add mustard seeds", "Add curry leaves", "Pour tempering over chutney", "Mix and serve with dosa or idli"],
+    "cuisine": "Indian",
+    "meal_type": "Side Dish",
+    "prep_time": "10 minutes",
+    "cook_time": "2 minutes"
+  },
+  {
+    "recipe_name": "Medu Vada",
+    "ingredients": ["Urad dal 2 cups", "Green chili 3 chopped", "Ginger 1 inch grated", "Curry leaves 15", "Black pepper 1 tsp", "Cumin seeds 1 tsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Soak urad dal for 4 hours", "Grind to fluffy batter with minimal water", "Add chopped chili, ginger, and curry leaves", "Add pepper, cumin, and salt", "Wet hands and shape into donuts", "Deep fry until golden brown", "Serve hot with chutney and sambar"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "4 hours",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Paneer Tikka",
+    "ingredients": ["Paneer 250g", "Bell peppers 2", "Onion 1", "Yogurt 1/2 cup", "Tandoori masala 1 tbsp", "Ginger-garlic paste 1 tbsp", "Garam masala 1 tsp", "Chili powder 1 tsp", "Lemon juice 1 tbsp", "Oil 1 tbsp", "Salt to taste"],
+    "instructions": ["Cut paneer and vegetables into cubes", "Mix yogurt with all spices and lemon juice", "Marinate paneer and veggies for 30 minutes", "Thread onto skewers", "Grill or bake at 400F for 15 minutes", "Brush with oil and cook 5 more minutes", "Serve hot with mint chutney"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "30 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Thalipeeth",
+    "ingredients": ["Multigrain flour 2 cups", "Onion 1 chopped", "Green chili 2", "Cilantro 1/4 cup", "Cumin seeds 1 tsp", "Coriander powder 1 tsp", "Oil for cooking", "Salt to taste"],
+    "instructions": ["Mix multigrain flour with chopped vegetables", "Add spices and knead into dough", "Take lemon-sized ball", "Pat into circle on wet cloth", "Cook on hot griddle with oil", "Cook both sides until crispy", "Serve with butter or yogurt"],
+    "cuisine": "Indian",
+    "meal_type": "Bread",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Bisi Bele Bath",
+    "ingredients": ["Rice 1 cup", "Toor dal 1/2 cup", "Mixed vegetables 1 cup", "Tamarind pulp 2 tbsp", "Bisi bele bath powder 3 tbsp", "Turmeric 1/2 tsp", "Ghee 3 tbsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Cashews 2 tbsp", "Salt to taste"],
+    "instructions": ["Wash rice and dal together", "Cook rice and dal with vegetables", "Add tamarind pulp and powder", "Add turmeric and salt", "Simmer for 15 minutes", "Heat ghee and add mustard seeds", "Add curry leaves and cashews", "Pour tempering over the dish", "Serve hot with raita"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Rasgulla",
+    "ingredients": ["Milk 2 liters", "Lemon juice 3 tbsp", "Sugar 2 cups", "Cardamom powder 1 tsp", "Rose water 1 tsp"],
+    "instructions": ["Boil milk and curdle with lemon juice", "Strain and rinse chenna", "Knead until smooth", "Make small balls without cracks", "Boil sugar with 4 cups water", "Add chenna balls and cover", "Cook for 15 minutes on medium heat", "Add cardamom and rose water", "Cool and refrigerate", "Serve chilled"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Kathi Roll",
+    "ingredients": ["Chicken or paneer 300g", "Roti or paratha 4", "Onion 1 sliced", "Cucumber 1 sliced", "Green chili sauce 2 tbsp", "Yogurt 1/4 cup", "Chaat masala 1 tsp", "Lemon juice 1 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Marinate chicken or paneer with spices", "Cook on griddle with oil", "Warm rotis on griddle", "Spread green chili sauce", "Layer cooked filling", "Add sliced onion and cucumber", "Squeeze lemon and sprinkle chaat masala", "Roll tightly and wrap in foil", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Appam",
+    "ingredients": ["Rice 2 cups", "Coconut 1 cup grated", "Yeast 1 tsp", "Sugar 2 tbsp", "Salt to taste"],
+    "instructions": ["Soak rice for 4 hours", "Grind rice with coconut to smooth batter", "Add yeast and sugar", "Ferment overnight", "Heat appam pan", "Pour ladleful and swirl to coat sides", "Cover and cook for 2 minutes", "Serve with stew or coconut milk"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Mutter Paneer",
+    "ingredients": ["Paneer 250g", "Green peas 1 cup", "Onion 2", "Tomato 3", "Ginger-garlic paste 2 tbsp", "Cumin seeds 1 tsp", "Coriander powder 1 tsp", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Garam masala 1 tsp", "Cream 2 tbsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Heat oil and add cumin seeds", "Saute onions until golden", "Add ginger-garlic paste and cook", "Add tomato puree and spices", "Cook until oil separates", "Add green peas and cook for 5 minutes", "Add paneer cubes and cream", "Simmer for 5 minutes", "Serve with naan or rice"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Kulfi",
+    "ingredients": ["Milk 2 liters", "Sugar 1 cup", "Cornflour 2 tbsp", "Cardamom powder 1 tsp", "Saffron 1/4 tsp", "Pistachios 2 tbsp chopped", "Almonds 2 tbsp sliced"],
+    "instructions": ["Boil milk and reduce to half", "Mix cornflour with little milk", "Add to boiling milk", "Add sugar and stir continuously", "Cook until thickened", "Add cardamom and saffron", "Cool completely", "Pour into kulfi molds", "Freeze for 6 hours", "Garnish with nuts before serving"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "40 minutes"
+  },
+  {
+    "recipe_name": "Corn Masala",
+    "ingredients": ["Sweet corn 2 cups", "Onion 1", "Bell pepper 1", "Tomato 1", "Ginger-garlic paste 1 tbsp", "Cumin seeds 1 tsp", "Garam masala 1 tsp", "Chili powder 1 tsp", "Butter 2 tbsp", "Lemon juice 1 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Heat butter and add cumin seeds", "Saute onions and bell pepper", "Add ginger-garlic paste and tomato", "Add spices and cook", "Add corn and mix well", "Cook for 5 minutes", "Add lemon juice and garnish", "Serve hot as snack or side"],
+    "cuisine": "Indian",
+    "meal_type": "Vegetable Side",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Prawn Curry",
+    "ingredients": ["Prawns 500g", "Coconut milk 2 cups", "Onion 1", "Tomato 2", "Ginger-garlic paste 2 tbsp", "Turmeric 1 tsp", "Chili powder 1 tsp", "Coriander powder 1 tsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Marinate prawns with turmeric and salt", "Heat oil and add mustard seeds", "Add curry leaves and onions", "Saute until golden", "Add ginger-garlic paste and tomatoes", "Add coriander and chili powder", "Add coconut milk and bring to simmer", "Add prawns and cook for 8 minutes", "Serve hot with rice"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Lemon Rice",
+    "ingredients": ["Cooked rice 3 cups", "Lemon juice 3 tbsp", "Mustard seeds 1 tsp", "Urad dal 1 tsp", "Chana dal 1 tsp", "Curry leaves 10", "Green chili 2", "Peanuts 2 tbsp", "Turmeric 1/2 tsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Heat oil and add mustard seeds", "Add urad dal and chana dal", "Add peanuts, curry leaves, and green chili", "Add turmeric and salt", "Add cooked rice and mix gently", "Add lemon juice and stir", "Cook for 2 minutes", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Rabdi",
+    "ingredients": ["Milk 2 liters", "Sugar 1/2 cup", "Cardamom powder 1 tsp", "Saffron 1/4 tsp", "Almonds 2 tbsp sliced", "Pistachios 2 tbsp chopped", "Rose water 1 tsp"],
+    "instructions": ["Boil milk in broad pan", "Simmer on low heat", "Scrape cream from sides and add to milk", "Continue until milk reduces to 1/3", "Add sugar and mix", "Add cardamom and saffron", "Cool and refrigerate", "Garnish with nuts and rose water", "Serve chilled"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "10 minutes",
+    "cook_time": "60 minutes"
+  },
+  {
+    "recipe_name": "Vindaloo",
+    "ingredients": ["Pork or chicken 500g", "Vinegar 1/4 cup", "Onion 2", "Ginger-garlic paste 2 tbsp", "Red chili 8 dried", "Cumin seeds 1 tsp", "Mustard seeds 1 tsp", "Turmeric 1/2 tsp", "Cinnamon 1 inch", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Grind dried red chili, cumin, and spices to paste", "Marinate meat in vinegar, spice paste, and salt", "Refrigerate for 2 hours", "Heat oil and saute onions", "Add ginger-garlic paste and cook", "Add marinated meat and brown", "Add 1 cup water and cover", "Cook on low heat for 40 minutes", "Serve with rice or pav"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "2 hours",
+    "cook_time": "50 minutes"
+  },
+  {
+    "recipe_name": "Chicken 65",
+    "ingredients": ["Chicken 500g", "Yogurt 1/4 cup", "Ginger-garlic paste 2 tbsp", "Red chili powder 2 tsp", "Turmeric 1/2 tsp", "Curry leaves 15", "Green chili 4", "Cornflour 3 tbsp", "All-purpose flour 2 tbsp", "Lemon juice 2 tbsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Cut chicken into small pieces", "Mix yogurt, pastes, and spices", "Marinate chicken for 1 hour", "Add cornflour and all-purpose flour", "Mix well to coat", "Heat oil and fry curry leaves", "Deep fry chicken pieces until golden", "Toss with fried curry leaves and green chili", "Squeeze lemon and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "1 hour",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Plain Paratha",
+    "ingredients": ["Whole wheat flour 2 cups", "Ghee 2 tbsp", "Water as needed", "Salt to taste"],
+    "instructions": ["Mix flour, salt, and ghee", "Add water gradually and knead into soft dough", "Rest for 15 minutes", "Divide into balls", "Roll into circles", "Cook on hot griddle", "Spread ghee and cook both sides", "Serve hot with curry or pickle"],
+    "cuisine": "Indian",
+    "meal_type": "Bread",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Hyderabadi Bagara Baingan",
+    "ingredients": ["Small eggplants 8", "Peanuts 1/4 cup", "Sesame seeds 2 tbsp", "Coconut 2 tbsp grated", "Tamarind pulp 2 tbsp", "Onion 1", "Ginger-garlic paste 1 tbsp", "Chili powder 1 tsp", "Turmeric 1/2 tsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Oil 4 tbsp", "Salt to taste"],
+    "instructions": ["Slit eggplants without separating", "Roast peanuts and sesame seeds", "Grind with coconut to paste", "Stuff eggplants with this paste", "Heat oil and add mustard seeds", "Saute onions and curry leaves", "Add ginger-garlic paste and spices", "Add stuffed eggplants carefully", "Add tamarind and simmer for 20 minutes", "Serve with rice or roti"],
+    "cuisine": "Indian",
+    "meal_type": "Vegetable Side",
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Sheer Khurma",
+    "ingredients": ["Vermicelli 1 cup", "Milk 4 cups", "Sugar 1 cup", "Ghee 3 tbsp", "Cardamom 3 pods", "Dates 4 chopped", "Almonds 2 tbsp sliced", "Pistachios 2 tbsp", "Raisins 2 tbsp", "Saffron 1/4 tsp"],
+    "instructions": ["Heat ghee and roast vermicelli until golden", "Boil milk in separate pan", "Add roasted vermicelli to milk", "Cook on low heat until soft", "Add sugar and mix well", "Add cardamom and saffron", "Add chopped dates and nuts", "Cook for 5 more minutes", "Serve warm or chilled"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Cabbage Poriyal",
+    "ingredients": ["Cabbage 3 cups shredded", "Coconut 2 tbsp grated", "Mustard seeds 1 tsp", "Urad dal 1 tsp", "Curry leaves 10", "Green chili 2", "Turmeric 1/2 tsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Heat oil and add mustard seeds", "Add urad dal and curry leaves", "Add green chili and turmeric", "Add shredded cabbage and salt", "Cook on medium heat until tender", "Add grated coconut and mix", "Serve as side dish with rice"],
+    "cuisine": "Indian",
+    "meal_type": "Vegetable Side",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Tamarind Rice",
+    "ingredients": ["Cooked rice 3 cups", "Tamarind pulp 3 tbsp", "Peanuts 2 tbsp", "Mustard seeds 1 tsp", "Urad dal 1 tsp", "Chana dal 1 tsp", "Curry leaves 10", "Red chili 2 dried", "Turmeric 1/2 tsp", "Asafetida 1/4 tsp", "Sesame oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Heat oil and add mustard seeds", "Add urad dal, chana dal, and peanuts", "Add curry leaves and dried chili", "Add asafetida and turmeric", "Add tamarind pulp and simmer until thick", "Add cooked rice and mix well", "Cook for 2 minutes", "Serve at room temperature"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Chicken Chettinad",
+    "ingredients": ["Chicken 500g", "Onion 2", "Tomato 2", "Coconut 1/2 cup grated", "Fennel seeds 1 tsp", "Cinnamon 1 inch", "Cloves 3", "Cardamom 2", "Star anise 1", "Red chili 6 dried", "Ginger-garlic paste 2 tbsp", "Turmeric 1/2 tsp", "Oil 3 tbsp", "Curry leaves 10", "Salt to taste"],
+    "instructions": ["Dry roast fennel, cinnamon, cloves, cardamom", "Add dried red chili and roast", "Grind with coconut to fine paste", "Heat oil and add curry leaves", "Saute onions until golden", "Add ginger-garlic paste and tomatoes", "Add chicken and brown", "Add ground masala and turmeric", "Cover and cook for 25 minutes", "Serve with rice or roti"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Mango Pickle",
+    "ingredients": ["Raw mango 500g", "Mustard oil 1/2 cup", "Mustard seeds 2 tbsp", "Red chili powder 2 tbsp", "Turmeric 1 tsp", "Fenugreek seeds 1 tsp", "Salt 3 tbsp"],
+    "instructions": ["Cut raw mango into small pieces", "Mix salt and turmeric with mango pieces", "Keep in sun for 2 days", "Dry roast mustard and fenugreek seeds", "Grind to powder", "Mix with chili powder", "Heat mustard oil and cool", "Add spice mix and oil to mango", "Mix well and store in jar", "Keep in sun for 3 more days"],
+    "cuisine": "Indian",
+    "meal_type": "Side Dish",
+    "prep_time": "20 minutes",
+    "cook_time": "5 minutes"
+  },
+  {
+    "recipe_name": "Chilli Paneer",
+    "ingredients": ["Paneer 250g", "Capsicum 2", "Onion 2", "Soy sauce 2 tbsp", "Chili sauce 2 tbsp", "Tomato ketchup 1 tbsp", "Ginger-garlic paste 1 tbsp", "Green chili 3", "Cornflour 3 tbsp", "Oil 4 tbsp", "Spring onions for garnish", "Salt to taste"],
+    "instructions": ["Cut paneer into cubes", "Coat with cornflour and salt", "Shallow fry until golden", "Heat oil and saute ginger-garlic", "Add sliced onion and capsicum", "Add sauces and green chili", "Add fried paneer and toss well", "Garnish with spring onions", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Masala Chai",
+    "ingredients": ["Water 2 cups", "Milk 1 cup", "Tea leaves 2 tsp", "Sugar 2 tsp", "Ginger 1 inch crushed", "Cardamom 2 pods", "Cinnamon 1 inch", "Cloves 2", "Black pepper 1/4 tsp"],
+    "instructions": ["Boil water with crushed ginger and spices", "Add tea leaves and simmer for 3 minutes", "Add milk and bring to boil", "Add sugar and strain", "Pour into cups and serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Beverage",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Bhindi Do Pyaza",
+    "ingredients": ["Okra 500g", "Onion 3", "Tomato 2", "Cumin seeds 1 tsp", "Coriander powder 1 tsp", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Amchur powder 1 tsp", "Garam masala 1/2 tsp", "Oil 4 tbsp", "Salt to taste"],
+    "instructions": ["Wash okra and dry completely", "Cut into pieces", "Heat oil and fry okra until crisp", "Remove and set aside", "In same oil saute sliced onions", "Add tomatoes and spices", "Cook until oil separates", "Add fried okra and mix", "Cook for 2 minutes and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Vegetable Side",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Boondi Raita",
+    "ingredients": ["Yogurt 2 cups", "Boondi 1 cup", "Cumin powder 1 tsp", "Chili powder 1/2 tsp", "Sugar 1 tsp", "Mint leaves for garnish", "Salt to taste"],
+    "instructions": ["Beat yogurt until smooth", "Soak boondi in water for 5 minutes", "Squeeze out water gently", "Add boondi to yogurt", "Add cumin, chili, sugar, and salt", "Mix well", "Garnish with mint leaves", "Chill before serving"],
+    "cuisine": "Indian",
+    "meal_type": "Side Dish",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Kanda Poha",
+    "ingredients": ["Poha 2 cups", "Onion 1 large sliced", "Potato 1", "Peanuts 2 tbsp", "Mustard seeds 1 tsp", "Curry leaves 10", "Turmeric 1/2 tsp", "Green chili 2", "Sugar 1 tsp", "Lemon juice 1 tbsp", "Cilantro for garnish", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Wash poha and drain", "Heat oil and add mustard seeds", "Add peanuts and curry leaves", "Add sliced onion and potato", "Cook until potato is tender", "Add turmeric, chili, and salt", "Add poha and mix gently", "Add sugar and lemon juice", "Garnish with cilantro", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Murukku",
+    "ingredients": ["Rice flour 2 cups", "Urad dal flour 1/2 cup", "Butter 2 tbsp", "Cumin seeds 1 tsp", "Sesame seeds 1 tsp", "Asafetida 1/4 tsp", "Chili powder 1 tsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix rice flour and urad dal flour", "Add melted butter and mix", "Add cumin, sesame, asafetida, chili, salt", "Add water and make stiff dough", "Press through murukku mold", "Deep fry until golden", "Drain on paper towel", "Cool and store in airtight container"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Bombay Sandwich",
+    "ingredients": ["Bread slices 8", "Potato 2 boiled sliced", "Cucumber 1 sliced", "Tomato 2 sliced", "Onion 1 sliced", "Green chutney 4 tbsp", "Butter 2 tbsp", "Chaat masala 1 tsp", "Salt to taste"],
+    "instructions": ["Spread green chutney on bread slices", "Layer sliced vegetables", "Sprinkle chaat masala and salt", "Top with another bread slice", "Toast with butter on griddle", "Cut diagonally", "Serve with extra chutney"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Masala Papad",
+    "ingredients": ["Papad 4", "Onion 1 chopped", "Tomato 1 chopped", "Cucumber 1 chopped", "Green chili 1 chopped", "Cilantro 2 tbsp", "Chaat masala 1 tsp", "Lemon juice 1 tbsp", "Oil for frying"],
+    "instructions": ["Roast or fry papads until crispy", "Mix all chopped vegetables", "Add chaat masala and lemon juice", "Top papads with vegetable mix", "Serve immediately"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "5 minutes"
+  },
+  {
+    "recipe_name": "Pineapple Kesari",
+    "ingredients": ["Semolina 1 cup", "Pineapple 1 cup chopped", "Sugar 3/4 cup", "Ghee 4 tbsp", "Cashews 2 tbsp", "Raisins 2 tbsp", "Cardamom 1 tsp", "Yellow food color 1/4 tsp"],
+    "instructions": ["Heat ghee and roast semolina until fragrant", "Boil 2 cups water with sugar", "Add pineapple and food color", "Add roasted semolina slowly", "Stir continuously to avoid lumps", "Add cardamom", "Garnish with fried cashews and raisins", "Serve warm"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "10 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Egg Biryani",
+    "ingredients": ["Basmati rice 2 cups", "Eggs 6 boiled", "Onion 3", "Yogurt 1/2 cup", "Ginger-garlic paste 2 tbsp", "Green chili 3", "Biryani masala 2 tbsp", "Turmeric 1/2 tsp", "Mint leaves 1/4 cup", "Cilantro 1/4 cup", "Ghee 4 tbsp", "Saffron milk 2 tbsp", "Salt to taste"],
+    "instructions": ["Cook rice with whole spices until 70% done", "Heat ghee and saute sliced onions until brown", "Add ginger-garlic paste and green chili", "Add yogurt and biryani masala", "Layer rice and masala alternately", "Add mint, cilantro, and saffron milk", "Close lid and cook on low for 20 minutes", "Serve with raita"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "40 minutes"
+  },
+  {
+    "recipe_name": "Sev Puri",
+    "ingredients": ["Puri 12", "Potatoes 2 boiled mashed", "Onion 1 chopped", "Sev 1 cup", "Green chutney 4 tbsp", "Tamarind chutney 4 tbsp", "Chaat masala 1 tsp", "Cilantro for garnish"],
+    "instructions": ["Arrange puris on plate", "Press center gently", "Add mashed potato", "Add onion and sev", "Drizzle green and tamarind chutney", "Sprinkle chaat masala", "Garnish with cilantro", "Serve immediately"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Mushroom Curry",
+    "ingredients": ["Mushrooms 400g", "Onion 2", "Tomato 3", "Ginger-garlic paste 2 tbsp", "Cumin seeds 1 tsp", "Coriander powder 2 tsp", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Garam masala 1 tsp", "Cream 2 tbsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Clean and slice mushrooms", "Heat oil and add cumin seeds", "Saute onions until golden", "Add ginger-garlic paste and cook", "Add tomato puree and spices", "Cook until oil separates", "Add mushrooms and cook for 10 minutes", "Add cream and garam masala", "Cook for 2 minutes and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Curd Rice",
+    "ingredients": ["Cooked rice 2 cups", "Yogurt 2 cups", "Milk 1/2 cup", "Mustard seeds 1 tsp", "Urad dal 1 tsp", "Chana dal 1 tsp", "Curry leaves 10", "Green chili 2", "Ginger 1 inch grated", "Pomegranate for garnish", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Mash cooked rice slightly", "Mix yogurt and milk with rice", "Heat oil and add mustard seeds", "Add urad dal, chana dal", "Add curry leaves, chili, and ginger", "Pour tempering over rice mixture", "Add salt and mix well", "Garnish with pomegranate", "Serve at room temperature"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "5 minutes"
+  },
+  {
+    "recipe_name": "Jalebi",
+    "ingredients": ["All-purpose flour 1 cup", "Cornflour 2 tbsp", "Yogurt 1/4 cup", "Sugar 2 cups", "Saffron 1/4 tsp", "Cardamom 2 pods", "Ghee or oil for frying", "Baking soda 1/4 tsp"],
+    "instructions": ["Mix flour, cornflour, and yogurt", "Add water to make thick batter", "Add baking soda and mix", "Ferment for 12 hours", "Boil sugar with water to make syrup", "Add saffron and cardamom", "Heat ghee in flat pan", "Fill batter in squeeze bottle", "Make spirals in hot ghee", "Fry until golden", "Soak in sugar syrup for 2 minutes", "Serve warm"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "12 hours",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Coriander Chutney",
+    "ingredients": ["Cilantro 2 cups", "Mint leaves 1/2 cup", "Green chili 4", "Ginger 1 inch", "Lemon juice 2 tbsp", "Cumin powder 1 tsp", "Sugar 1 tsp", "Salt to taste"],
+    "instructions": ["Wash cilantro and mint thoroughly", "Blend with green chili and ginger", "Add lemon juice and spices", "Blend to smooth chutney", "Store in refrigerator"],
+    "cuisine": "Indian",
+    "meal_type": "Side Dish",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Mutter Pulav",
+    "ingredients": ["Basmati rice 2 cups", "Green peas 1 cup", "Onion 1", "Ghee 3 tbsp", "Cinnamon 1 inch", "Cardamom 3", "Cloves 3", "Bay leaf 1", "Ginger paste 1 tsp", "Garlic paste 1 tsp", "Salt to taste"],
+    "instructions": ["Wash and soak rice for 15 minutes", "Heat ghee and add whole spices", "Saute sliced onions until golden", "Add ginger and garlic paste", "Add peas and rice", "Saute for 2 minutes", "Add 4 cups hot water and salt", "Cover and cook on low heat for 15 minutes", "Fluff and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Mysore Pak",
+    "ingredients": ["Chickpea flour 1 cup", "Ghee 1 cup", "Sugar 1 cup", "Water 1/2 cup", "Cardamom powder 1/2 tsp"],
+    "instructions": ["Roast chickpea flour in little ghee", "Make sugar syrup of soft ball consistency", "Add roasted flour to syrup", "Add ghee gradually while stirring", "Cook until mixture leaves sides", "Pour into greased tray", "Cut into pieces when set", "Store in airtight container"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Gobi Manchurian",
+    "ingredients": ["Cauliflower 1 head", "All-purpose flour 4 tbsp", "Cornflour 4 tbsp", "Soy sauce 2 tbsp", "Chili sauce 2 tbsp", "Tomato ketchup 1 tbsp", "Ginger-garlic paste 1 tbsp", "Green chili 2", "Spring onions 4", "Oil for frying", "Salt to taste"],
+    "instructions": ["Cut cauliflower into florets", "Mix flour, cornflour, and spices", "Make batter and coat florets", "Deep fry until golden", "Heat oil and saute ginger-garlic", "Add sauces and green chili", "Add fried florets and toss", "Garnish with spring onions", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Dal Fry",
+    "ingredients": ["Toor dal 1 cup", "Onion 1", "Tomato 2", "Ginger-garlic paste 1 tbsp", "Cumin seeds 1 tsp", "Mustard seeds 1 tsp", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Ghee 3 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Boil dal with turmeric until soft", "Heat ghee and add cumin and mustard seeds", "Saute onions until golden", "Add ginger-garlic paste and tomatoes", "Add chili powder and cook", "Add boiled dal and simmer for 10 minutes", "Garnish with cilantro", "Serve hot with rice"],
+    "cuisine": "Indian",
+    "meal_type": "Lentil Dish",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Kokum Sherbet",
+    "ingredients": ["Kokum 10 pieces", "Sugar 1 cup", "Water 4 cups", "Cumin powder 1 tsp", "Black salt 1 tsp", "Mint leaves for garnish", "Ice cubes"],
+    "instructions": ["Soak kokum in warm water for 30 minutes", "Mash and strain to extract juice", "Add sugar and dissolve", "Add cumin and black salt", "Chill thoroughly", "Add ice cubes", "Garnish with mint and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Beverage",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Patra",
+    "ingredients": ["Colocasia leaves 12", "Chickpea flour 2 cups", "Tamarind pulp 2 tbsp", "Jaggery 2 tbsp", "Ginger-garlic paste 2 tbsp", "Green chili paste 1 tbsp", "Turmeric 1/2 tsp", "Mustard seeds 1 tsp", "Sesame seeds 1 tsp", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Remove center vein of leaves", "Mix chickpea flour with all spices and paste", "Spread batter on each leaf", "Stack leaves and roll tightly", "Steam rolls for 30 minutes", "Cool and slice into pieces", "Heat oil and add mustard seeds", "Fry sliced patra until crisp", "Serve as snack"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "30 minutes",
+    "cook_time": "40 minutes"
+  },
+  {
+    "recipe_name": "Pongal",
+    "ingredients": ["Rice 1 cup", "Moong dal 1/2 cup", "Ghee 4 tbsp", "Cumin seeds 2 tsp", "Black pepper 2 tsp", "Ginger 1 inch crushed", "Curry leaves 10", "Cashews 2 tbsp", "Asafetida 1/4 tsp", "Salt to taste"],
+    "instructions": ["Roast moong dal until aromatic", "Wash rice and dal together", "Cook with 4 cups water until soft", "Mash slightly", "Heat ghee and add cumin, pepper, curry leaves", "Add ginger, asafetida, and cashews", "Pour tempering over rice mixture", "Mix well and serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Schezwan Fried Rice",
+    "ingredients": ["Cooked rice 3 cups", "Mixed vegetables 1 cup", "Schezwan sauce 3 tbsp", "Soy sauce 1 tbsp", "Vinegar 1 tsp", "Ginger-garlic paste 1 tbsp", "Green chili 2", "Oil 3 tbsp", "Spring onions for garnish", "Salt to taste"],
+    "instructions": ["Heat oil and add ginger-garlic paste", "Add green chili and vegetables", "Stir fry on high heat", "Add Schezwan sauce, soy sauce, vinegar", "Add cooked rice and mix well", "Cook for 2 minutes", "Garnish with spring onions", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Bread Pakora",
+    "ingredients": ["Bread slices 8", "Chickpea flour 1 cup", "Green chili 2 chopped", "Ginger 1 inch grated", "Cumin seeds 1 tsp", "Chili powder 1 tsp", "Turmeric 1/2 tsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix chickpea flour with spices and chili", "Add water to make thick batter", "Heat oil for deep frying", "Dip bread slices in batter", "Deep fry until golden", "Drain on paper towel", "Serve hot with chutney and chai"],
+    "cuisine": "Indian",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Shrikhand",
+    "ingredients": ["Yogurt 4 cups", "Sugar 1 cup", "Cardamom powder 1 tsp", "Saffron 1/4 tsp", "Pistachios 2 tbsp chopped", "Almonds 2 tbsp sliced"],
+    "instructions": ["Hang yogurt in cheesecloth for 4 hours", "Squeeze out excess water", "Mix hung curd with sugar", "Add cardamom and saffron", "Whisk until smooth and creamy", "Garnish with nuts", "Chill for 2 hours before serving"],
+    "cuisine": "Indian",
+    "meal_type": "Dessert",
+    "prep_time": "4 hours",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Chicken Do Pyaza",
+    "ingredients": ["Chicken 500g", "Onion 4", "Yogurt 1/2 cup", "Ginger-garlic paste 2 tbsp", "Coriander powder 1 tsp", "Turmeric 1/2 tsp", "Chili powder 1 tsp", "Garam masala 1 tsp", "Cumin seeds 1 tsp", "Oil 3 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Cut 2 onions into slices and 2 into quarters", "Heat oil and add cumin seeds", "Saute sliced onions until golden", "Add ginger-garlic paste and cook", "Add chicken and brown", "Add yogurt and spices", "Add quartered onions", "Cover and cook for 25 minutes", "Garnish with cilantro and serve"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Sabudana Khichdi",
+    "ingredients": ["Sabudana 1 cup", "Potato 1", "Peanuts 1/4 cup roasted", "Green chili 2", "Cumin seeds 1 tsp", "Curry leaves 10", "Lemon juice 1 tbsp", "Sugar 1 tsp", "Ghee 2 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Soak sabudana for 4 hours", "Drain excess water", "Heat ghee and add cumin seeds", "Add curry leaves and green chili", "Add cubed potatoes and cook", "Add soaked sabudana", "Stir gently and cook for 5 minutes", "Add crushed peanuts and sugar", "Add lemon juice and garnish", "Serve hot"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "4 hours",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Lauki Kofta",
+    "ingredients": ["Bottle gourd 1", "Chickpea flour 4 tbsp", "Onion 1", "Tomato 3", "Ginger-garlic paste 2 tbsp", "Cumin seeds 1 tsp", "Coriander powder 1 tsp", "Garam masala 1 tsp", "Chili powder 1 tsp", "Cream 2 tbsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Grate bottle gourd and squeeze water", "Mix with chickpea flour and spices", "Make small balls and deep fry", "Heat oil and saute onions", "Add ginger-garlic paste and tomatoes", "Add spices and simmer", "Add cream and mix", "Add kofta balls just before serving", "Serve hot with naan"],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Rava Idli",
+    "ingredients": ["Semolina 2 cups", "Yogurt 1 cup", "Ginger 1 inch grated", "Green chili 2 chopped", "Mustard seeds 1 tsp", "Curry leaves 10", "Cashews 2 tbsp", "Baking soda 1/2 tsp", "Oil 2 tbsp", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Heat oil and add mustard seeds", "Add cashews, curry leaves, chili, ginger", "Add semolina and roast until fragrant", "Cool and add yogurt", "Add water to make thick batter", "Add baking soda and mix", "Pour into idli molds", "Steam for 12 minutes", "Garnish and serve with chutney"],
+    "cuisine": "Indian",
+    "meal_type": "Breakfast",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Chicken Katsu",
+    "ingredients": ["Chicken breast 2", "All-purpose flour 1/2 cup", "Egg 1", "Breadcrumbs 1 cup", "Oil for frying", "Salt to taste", "Pepper to taste"],
+    "instructions": ["Slice chicken breast horizontally", "Season with salt and pepper", "Coat with flour", "Dip in beaten egg", "Coat with breadcrumbs", "Deep fry until golden and cooked", "Rest for 2 minutes", "Slice and serve with sauce"],
+    "cuisine": "Japanese",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Sushi Rice",
+    "ingredients": ["Sushi rice 2 cups", "Rice vinegar 3 tbsp", "Sugar 2 tbsp", "Seaweed 4 sheets", "Cucumber 1", "Avocado 1", "Soy sauce for dipping"],
+    "instructions": ["Cook sushi rice and cool slightly", "Mix vinegar and sugar", "Fold into rice", "Place seaweed on bamboo mat", "Spread rice leaving edge", "Add cucumber and avocado strips", "Roll tightly using mat", "Slice into pieces", "Serve with soy sauce"],
+    "cuisine": "Japanese",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "20 minutes"
+  }
+]

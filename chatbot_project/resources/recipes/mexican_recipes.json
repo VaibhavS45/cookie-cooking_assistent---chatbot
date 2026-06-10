@@ -1,0 +1,452 @@
+[
+  {
+    "recipe_name": "Tacos al Pastor",
+    "ingredients": ["Pork shoulder 500g", "Pineapple 1 cup chopped", "Corn tortillas 12", "Achiote paste 2 tbsp", "Vinegar 2 tbsp", "Garlic 3 cloves", "Cumin 1 tsp", "Chili powder 1 tbsp", "Onion 1", "Cilantro 1/4 cup", "Salt to taste"],
+    "instructions": ["Slice pork thinly", "Marinate with achiote, vinegar, garlic, and spices", "Refrigerate for 2 hours", "Grill or pan fry pork until charred", "Dice into small pieces", "Grill pineapple until caramelized", "Warm tortillas", "Assemble tacos with pork, pineapple, onion, cilantro", "Serve with salsa"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "2 hours",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Guacamole",
+    "ingredients": ["Avocados 3 ripe", "Lime juice 2 tbsp", "Onion 1/4 cup diced", "Tomato 1 diced", "Cilantro 2 tbsp chopped", "Serrano pepper 1 minced", "Salt to taste"],
+    "instructions": ["Halve avocados and remove pit", "Mash to desired consistency", "Add lime juice and mix", "Fold in diced onion, tomato, and cilantro", "Add serrano pepper", "Season with salt", "Serve immediately with chips"],
+    "cuisine": "Mexican",
+    "meal_type": "Appetizer",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Chicken Enchiladas",
+    "ingredients": ["Chicken 400g cooked shredded", "Corn tortillas 8", "Enchilada sauce 2 cups", "Mexican cheese 2 cups shredded", "Sour cream 1/2 cup", "Onion 1", "Garlic 3 cloves", "Cumin 1 tsp", "Chili powder 1 tsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Shred cooked chicken", "Saute onion and garlic", "Mix chicken with sour cream and spices", "Warm tortillas to make pliable", "Fill tortillas with chicken mixture", "Roll tightly", "Place in baking dish seam side down", "Cover with enchilada sauce and cheese", "Bake at 375F for 20 minutes", "Serve hot"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Quesadilla",
+    "ingredients": ["Flour tortillas 4", "Mexican cheese 2 cups", "Mushrooms 1 cup sliced", "Bell pepper 1", "Onion 1", "Jalapeno 1", "Oil 2 tbsp", "Sour cream for serving", "Salsa for serving"],
+    "instructions": ["Saute mushrooms, peppers, and onion", "Place tortilla in pan", "Sprinkle cheese on half", "Add sauteed vegetables", "Fold tortilla over", "Cook until golden on both sides", "Cut into wedges", "Serve with sour cream and salsa"],
+    "cuisine": "Mexican",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Churros",
+    "ingredients": ["All-purpose flour 1 cup", "Water 1 cup", "Butter 1/2 cup", "Eggs 3", "Sugar 1/2 cup for coating", "Cinnamon 1 tsp", "Vanilla extract 1 tsp", "Oil for frying"],
+    "instructions": ["Boil water with butter and vanilla", "Add flour and stir until smooth", "Cool slightly", "Add eggs one at a time", "Pipe dough through star tip", "Deep fry until golden", "Roll in cinnamon sugar", "Serve warm with chocolate sauce"],
+    "cuisine": "Mexican",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Mexican Rice",
+    "ingredients": ["Long grain rice 2 cups", "Tomato sauce 1 cup", "Chicken stock 2 cups", "Onion 1", "Garlic 3 cloves", "Cumin 1 tsp", "Chili powder 1 tsp", "Peas 1/2 cup", "Carrots 1/2 cup diced", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Heat oil and saute rice until golden", "Add onion and garlic", "Add tomato sauce, stock, and spices", "Cover and simmer for 20 minutes", "Add peas and carrots", "Cook until liquid is absorbed", "Fluff with fork", "Serve as side dish"],
+    "cuisine": "Mexican",
+    "meal_type": "Side Dish",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Beef Burritos",
+    "ingredients": ["Ground beef 500g", "Flour tortillas 6 large", "Mexican rice 2 cups", "Refried beans 1 can", "Mexican cheese 2 cups", "Lettuce 1 cup shredded", "Tomato 1 diced", "Sour cream 1/2 cup", "Taco seasoning 2 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Brown beef with taco seasoning", "Warm tortillas", "Layer rice, beans, beef, and cheese", "Add lettuce and tomato", "Add sour cream", "Fold sides in and roll tightly", "Toast on griddle until golden", "Serve with salsa"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Pico de Gallo",
+    "ingredients": ["Tomatoes 4 ripe diced", "Onion 1/2 cup diced", "Cilantro 1/4 cup chopped", "Jalapeno 1 minced", "Lime juice 2 tbsp", "Salt to taste"],
+    "instructions": ["Dice tomatoes and remove seeds", "Mix with onion and cilantro", "Add jalapeno to taste", "Add lime juice and salt", "Let sit for 15 minutes", "Serve with chips or tacos"],
+    "cuisine": "Mexican",
+    "meal_type": "Appetizer",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Flan",
+    "ingredients": ["Eggs 4", "Condensed milk 1 can", "Evaporated milk 1 can", "Sugar 1 cup", "Vanilla extract 1 tsp"],
+    "instructions": ["Caramelize sugar in pan until golden", "Pour into flan mold", "Blend eggs, milks, and vanilla", "Pour over caramel", "Place in water bath", "Bake at 350F for 50 minutes", "Cool and refrigerate", "Unmold and serve"],
+    "cuisine": "Mexican",
+    "meal_type": "Dessert",
+    "prep_time": "15 minutes",
+    "cook_time": "50 minutes"
+  },
+  {
+    "recipe_name": "Tamales",
+    "ingredients": ["Masa harina 3 cups", "Pork 500g cooked", "Corn husks 20", "Red chili sauce 1 cup", "Lard or shortening 1 cup", "Baking powder 1 tsp", "Chicken stock 2 cups", "Salt to taste"],
+    "instructions": ["Soak corn husks in warm water for 30 minutes", "Mix masa with lard, stock, and baking powder", "Spread masa on corn husk", "Add pork and chili sauce filling", "Fold and tie husk", "Steam for 1 hour", "Rest for 10 minutes before serving"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "40 minutes",
+    "cook_time": "60 minutes"
+  },
+  {
+    "recipe_name": "Nachos",
+    "ingredients": ["Tortilla chips 1 bag", "Ground beef 300g", "Mexican cheese 2 cups", "Jalapenos 1/4 cup sliced", "Refried beans 1 cup", "Sour cream 1/2 cup", "Guacamole 1 cup", "Salsa 1 cup", "Taco seasoning 1 tbsp"],
+    "instructions": ["Brown beef with taco seasoning", "Layer chips on baking sheet", "Top with beef, beans, and cheese", "Add jalapenos", "Bake at 400F for 10 minutes", "Top with guacamole, sour cream, and salsa", "Serve immediately"],
+    "cuisine": "Mexican",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Pozole",
+    "ingredients": ["Pork shoulder 500g", "Hominy 2 cans", "Red chili 6 dried", "Garlic 4 cloves", "Onion 1", "Cumin 1 tsp", "Oregano 1 tsp", "Lettuce for garnish", "Radishes for garnish", "Lime wedges", "Salt to taste"],
+    "instructions": ["Soak dried chili in hot water", "Blend chili with garlic to make sauce", "Cook pork in large pot with water", "Add hominy and chili sauce", "Add cumin and oregano", "Simmer for 1.5 hours", "Serve with lettuce, radish, and lime"],
+    "cuisine": "Mexican",
+    "meal_type": "Soup",
+    "prep_time": "20 minutes",
+    "cook_time": "100 minutes"
+  },
+  {
+    "recipe_name": "Salsa Verde",
+    "ingredients": ["Tomatillos 500g", "Serrano peppers 3", "Onion 1/4", "Garlic 2 cloves", "Cilantro 1/4 cup", "Lime juice 1 tbsp", "Salt to taste"],
+    "instructions": ["Remove husks from tomatillos", "Boil tomatillos and peppers until soft", "Blend with onion, garlic, and cilantro", "Add lime juice and salt", "Cool before serving", "Use for tacos or chips"],
+    "cuisine": "Mexican",
+    "meal_type": "Sauce",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Fish Tacos",
+    "ingredients": ["White fish fillets 500g", "Corn tortillas 8", "Cabbage 2 cups shredded", "Lime juice 3 tbsp", "Chili powder 1 tsp", "Cumin 1 tsp", "Garlic powder 1 tsp", "Sour cream 1/2 cup", "Mayonnaise 1/4 cup", "Oil for frying", "Salt to taste"],
+    "instructions": ["Mix spices and coat fish", "Pan fry fish until golden and flaky", "Mix sour cream, mayo, and lime for sauce", "Warm tortillas", "Break fish into pieces", "Assemble with cabbage, fish, and sauce", "Serve with lime wedges"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Refried Beans",
+    "ingredients": ["Pinto beans 2 cups dried", "Onion 1", "Garlic 4 cloves", "Lard or oil 3 tbsp", "Cumin 1 tsp", "Chili powder 1 tsp", "Salt to taste"],
+    "instructions": ["Soak beans overnight", "Cook beans with onion and garlic until soft", "Drain reserving liquid", "Heat lard and add beans", "Mash beans while frying", "Add cumin and chili", "Add cooking liquid as needed", "Cook until thick and creamy"],
+    "cuisine": "Mexican",
+    "meal_type": "Side Dish",
+    "prep_time": "15 minutes",
+    "cook_time": "120 minutes"
+  },
+  {
+    "recipe_name": "Horchata",
+    "ingredients": ["Rice 1 cup", "Milk 4 cups", "Sugar 1/2 cup", "Cinnamon 2 sticks", "Vanilla extract 1 tsp", "Ice cubes"],
+    "instructions": ["Soak rice in water with cinnamon sticks overnight", "Blend rice mixture until smooth", "Strain through cheesecloth", "Add milk, sugar, and vanilla", "Chill thoroughly", "Serve over ice"],
+    "cuisine": "Mexican",
+    "meal_type": "Beverage",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Chiles Rellenos",
+    "ingredients": ["Poblano peppers 6", "Mexican cheese 300g", "Eggs 4", "All-purpose flour 1/2 cup", "Tomato sauce 2 cups", "Garlic 2 cloves", "Oil for frying", "Salt to taste"],
+    "instructions": ["Roast poblano peppers until skin blisters", "Peel off skin and make slit", "Remove seeds carefully", "Stuff with cheese", "Beat egg whites to stiff peaks", "Fold in yolks and flour", "Dip stuffed peppers in batter", "Deep fry until golden", "Serve with tomato sauce"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "25 minutes"
+  },
+  {
+    "recipe_name": "Mexican Street Corn",
+    "ingredients": ["Corn on cob 6", "Mayonnaise 1/2 cup", "Cotija cheese 1/2 cup crumbled", "Chili powder 1 tsp", "Lime juice 2 tbsp", "Cilantro 2 tbsp chopped", "Salt to taste"],
+    "instructions": ["Grill corn until charred on all sides", "Brush with mayonnaise", "Sprinkle cotija cheese", "Dust with chili powder", "Squeeze lime juice", "Garnish with cilantro", "Serve hot"],
+    "cuisine": "Mexican",
+    "meal_type": "Snack",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Chicken Tortilla Soup",
+    "ingredients": ["Chicken 400g", "Tomatoes 400g crushed", "Chicken stock 6 cups", "Corn tortillas 4 strips", "Avocado 1", "Mexican cheese 1 cup", "Cumin 1 tsp", "Chili powder 1 tsp", "Garlic 3 cloves", "Onion 1", "Lime juice 2 tbsp", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Saute onion and garlic", "Add tomatoes, stock, and spices", "Add chicken and simmer for 20 minutes", "Shred chicken and return to soup", "Cut tortillas into strips and fry", "Serve soup topped with tortilla strips", "Add avocado, cheese, and lime"],
+    "cuisine": "Mexican",
+    "meal_type": "Soup",
+    "prep_time": "15 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Margarita",
+    "ingredients": ["Tequila 2 oz", "Lime juice 1 oz", "Triple sec 1 oz", "Ice cubes", "Salt for rim", "Lime wheel for garnish"],
+    "instructions": ["Rim glass with lime and salt", "Fill shaker with ice", "Add tequila, lime juice, and triple sec", "Shake well", "Strain into glass", "Garnish with lime wheel", "Serve immediately"],
+    "cuisine": "Mexican",
+    "meal_type": "Beverage",
+    "prep_time": "5 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Carnitas",
+    "ingredients": ["Pork shoulder 1kg", "Orange juice 1/2 cup", "Garlic 6 cloves", "Cumin 2 tsp", "Oregano 1 tsp", "Bay leaves 2", "Lard or oil for cooking", "Salt to taste"],
+    "instructions": ["Cut pork into large chunks", "Season with salt, cumin, and oregano", "Place in pot with garlic and bay leaves", "Add orange juice and water to cover", "Simmer for 2 hours until tender", "Increase heat to evaporate liquid", "Fry pork in its own fat until crispy", "Shred and serve in tacos"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "140 minutes"
+  },
+  {
+    "recipe_name": "Elote Dip",
+    "ingredients": ["Corn 4 cups", "Mayonnaise 1/2 cup", "Cotija cheese 1 cup", "Chili powder 1 tsp", "Lime juice 2 tbsp", "Jalapeno 1 diced", "Cilantro 1/4 cup", "Salt to taste"],
+    "instructions": ["Grill or roast corn until charred", "Cut kernels off cob", "Mix with mayonnaise and lime", "Add cotija, chili, and jalapeno", "Garnish with cilantro", "Serve warm with chips"],
+    "cuisine": "Mexican",
+    "meal_type": "Appetizer",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Mole Poblano",
+    "ingredients": ["Chicken 1 whole", "Dried chili 5 types", "Chocolate 2 oz", "Sesame seeds 2 tbsp", "Almonds 1/4 cup", "Peanuts 1/4 cup", "Plantain 1 ripe", "Tomatoes 3", "Onion 1", "Garlic 4 cloves", "Cinnamon 1 stick", "Cloves 3", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Roast all dried chili, seeds, and nuts", "Fry plantain, onion, garlic, and tomatoes", "Blend everything with chocolate and spices", "Strain into pot", "Cook chicken in water until tender", "Add mole sauce to chicken", "Simmer for 30 minutes", "Serve with rice and tortillas"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "70 minutes"
+  },
+  {
+    "recipe_name": "Huevos Rancheros",
+    "ingredients": ["Eggs 4", "Corn tortillas 4", "Tomato sauce 2 cups", "Black beans 1 can", "Avocado 1", "Mexican cheese 1/2 cup", "Cilantro for garnish", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Heat oil and fry tortillas until crisp", "Keep warm", "Fry eggs sunny side up", "Heat tomato sauce", "Warm black beans", "Place tortilla on plate", "Top with beans, egg, and sauce", "Add avocado and cheese", "Garnish with cilantro"],
+    "cuisine": "Mexican",
+    "meal_type": "Breakfast",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Tres Leches Cake",
+    "ingredients": ["All-purpose flour 1.5 cups", "Sugar 1 cup", "Eggs 5", "Milk 1/2 cup", "Vanilla extract 1 tsp", "Condensed milk 1 can", "Evaporated milk 1 can", "Heavy cream 1 cup", "Baking powder 1 tsp"],
+    "instructions": ["Separate eggs and beat whites with sugar", "Fold in yolks, flour, and baking powder", "Bake at 350F for 30 minutes", "Mix three milks together", "Poke holes in cake", "Pour milk mixture over cake", "Refrigerate for 4 hours", "Top with whipped cream"],
+    "cuisine": "Mexican",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Ceviche",
+    "ingredients": ["White fish 500g", "Lime juice 1 cup", "Tomato 2 diced", "Onion 1 diced", "Cilantro 1/4 cup", "Jalapeno 2 minced", "Avocado 1", "Salt to taste"],
+    "instructions": ["Dice fish into small cubes", "Marinate in lime juice for 30 minutes", "Fish should become opaque", "Mix with tomato, onion, and cilantro", "Add jalapeno", "Gently fold in diced avocado", "Season with salt", "Serve chilled with tostadas"],
+    "cuisine": "Mexican",
+    "meal_type": "Appetizer",
+    "prep_time": "20 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Black Bean Soup",
+    "ingredients": ["Black beans 2 cups dried", "Onion 1", "Garlic 4 cloves", "Cumin 2 tsp", "Chili powder 1 tsp", "Bay leaves 2", "Lime juice 2 tbsp", "Sour cream for garnish", "Cilantro for garnish", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Soak beans overnight", "Saute onion and garlic", "Add beans, spices, and water", "Simmer for 2 hours until beans are tender", "Blend half the soup for thickness", "Add lime juice", "Serve with sour cream and cilantro"],
+    "cuisine": "Mexican",
+    "meal_type": "Soup",
+    "prep_time": "15 minutes",
+    "cook_time": "130 minutes"
+  },
+  {
+    "recipe_name": "Chimichanga",
+    "ingredients": ["Flour tortillas 6 large", "Shredded beef 500g", "Mexican rice 1 cup", "Refried beans 1 cup", "Mexican cheese 2 cups", "Oil for frying", "Sour cream for serving", "Salsa for serving", "Guacamole for serving"],
+    "instructions": ["Warm tortillas", "Layer beef, rice, beans, and cheese", "Fold tightly into burrito shape", "Secure with toothpick", "Deep fry until golden and crispy", "Drain on paper towel", "Serve with sour cream, salsa, and guacamole"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Sopaipillas",
+    "ingredients": ["All-purpose flour 2 cups", "Butter 2 tbsp", "Baking powder 1 tsp", "Warm water 1/2 cup", "Oil for frying", "Honey for serving", "Cinnamon sugar"],
+    "instructions": ["Mix flour, butter, and baking powder", "Add warm water to form dough", "Knead gently", "Rest for 15 minutes", "Roll out thin", "Cut into triangles", "Deep fry until puffed and golden", "Drizzle with honey and cinnamon sugar"],
+    "cuisine": "Mexican",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Albondigas Soup",
+    "ingredients": ["Ground beef 400g", "Rice 1/4 cup", "Egg 1", "Tomatoes 400g crushed", "Chicken stock 6 cups", "Carrots 2", "Zucchini 2", "Garlic 3 cloves", "Onion 1", "Cumin 1 tsp", "Mint 2 tbsp chopped", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Mix beef, rice, egg, mint, and cumin", "Form into small meatballs", "Saute onion and garlic", "Add tomatoes and stock", "Bring to boil", "Drop meatballs gently into soup", "Add chopped carrots and zucchini", "Simmer for 30 minutes", "Season and serve"],
+    "cuisine": "Mexican",
+    "meal_type": "Soup",
+    "prep_time": "20 minutes",
+    "cook_time": "40 minutes"
+  },
+  {
+    "recipe_name": "Mexican Casserole",
+    "ingredients": ["Ground beef 500g", "Corn tortillas 12", "Enchilada sauce 2 cups", "Mexican cheese 3 cups", "Black beans 1 can", "Corn 1 cup", "Onion 1", "Taco seasoning 2 tbsp", "Sour cream for serving"],
+    "instructions": ["Brown beef with onion and taco seasoning", "Layer tortillas in baking dish", "Add beef, beans, and corn", "Pour enchilada sauce over", "Top with cheese", "Repeat layers", "Bake at 375F for 25 minutes", "Serve with sour cream"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Pan Dulce",
+    "ingredients": ["All-purpose flour 4 cups", "Sugar 1 cup", "Butter 1/2 cup", "Eggs 2", "Yeast 2 tsp", "Warm milk 1 cup", "Vanilla extract 1 tsp", "Cinnamon 1 tsp", "Salt 1/2 tsp"],
+    "instructions": ["Activate yeast in warm milk with sugar", "Mix flour, butter, eggs, and salt", "Knead into dough", "Let rise for 2 hours", "Shape into rolls", "Top with sugar, cinnamon, and butter streusel", "Bake at 350F for 20 minutes", "Serve with hot chocolate"],
+    "cuisine": "Mexican",
+    "meal_type": "Bread",
+    "prep_time": "2 hours",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Fajitas",
+    "ingredients": ["Beef steak 500g", "Bell peppers 3", "Onion 2", "Lime juice 3 tbsp", "Cumin 1 tsp", "Chili powder 1 tsp", "Garlic 3 cloves", "Flour tortillas 8", "Sour cream for serving", "Guacamole for serving", "Oil 3 tbsp", "Salt to taste"],
+    "instructions": ["Slice beef into thin strips", "Marinate with lime, cumin, chili, and garlic", "Slice peppers and onion into strips", "Heat oil until smoking", "Cook beef quickly on high heat", "Remove and set aside", "Cook vegetables until charred", "Warm tortillas", "Serve with guacamole and sour cream"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Mexican Hot Chocolate",
+    "ingredients": ["Milk 4 cups", "Dark chocolate 100g", "Sugar 2 tbsp", "Cinnamon 1 stick", "Vanilla extract 1 tsp", "Chili powder 1/4 tsp"],
+    "instructions": ["Heat milk with cinnamon stick", "Add chocolate and stir until melted", "Add sugar and vanilla", "Add chili powder", "Whisk until frothy", "Serve hot"],
+    "cuisine": "Mexican",
+    "meal_type": "Beverage",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Tostadas",
+    "ingredients": ["Tostada shells 8", "Refried beans 2 cups", "Shredded chicken 2 cups", "Lettuce 2 cups shredded", "Tomato 1 diced", "Mexican cheese 1 cup", "Sour cream 1/2 cup", "Salsa 1 cup", "Avocado 1 sliced"],
+    "instructions": ["Warm tostada shells", "Spread refried beans on each", "Add shredded chicken", "Top with lettuce and tomato", "Add cheese", "Drizzle with sour cream and salsa", "Top with avocado slices", "Serve immediately"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Pico de Gallo",
+    "ingredients": ["Tomatoes 4 ripe", "Onion 1/2", "Cilantro 1/4 cup", "Jalapeno 1", "Lime juice 2 tbsp", "Salt to taste"],
+    "instructions": ["Dice all ingredients finely", "Mix together in bowl", "Add lime juice and salt", "Let flavors meld for 15 minutes", "Serve with chips or tacos"],
+    "cuisine": "Mexican",
+    "meal_type": "Appetizer",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Menudo",
+    "ingredients": ["Beef tripe 500g", "Hominy 2 cans", "Red chili 4 dried", "Garlic 4 cloves", "Onion 1", "Oregano 1 tsp", "Lime wedges", "Cilantro for garnish", "Salt to taste"],
+    "instructions": ["Clean tripe thoroughly", "Cut into small pieces", "Boil tripe with garlic and onion", "Soak dried chili and blend", "Add chili sauce to pot", "Add hominy", "Simmer for 2 hours", "Serve with lime, oregano, and cilantro"],
+    "cuisine": "Mexican",
+    "meal_type": "Soup",
+    "prep_time": "20 minutes",
+    "cook_time": "140 minutes"
+  },
+  {
+    "recipe_name": "Mexican Shrimp Cocktail",
+    "ingredients": ["Shrimp 500g cooked", "Tomato juice 2 cups", "Avocado 1 diced", "Tomato 1 diced", "Onion 1/2 diced", "Cilantro 1/4 cup", "Lime juice 3 tbsp", "Hot sauce 1 tsp", "Salt to taste"],
+    "instructions": ["Mix tomato juice with lime juice and hot sauce", "Add diced vegetables and cilantro", "Fold in cooked shrimp", "Gently mix in avocado", "Chill for 30 minutes", "Serve in cocktail glasses"],
+    "cuisine": "Mexican",
+    "meal_type": "Appetizer",
+    "prep_time": "20 minutes",
+    "cook_time": "0 minutes"
+  },
+  {
+    "recipe_name": "Arroz con Leche",
+    "ingredients": ["Rice 1 cup", "Milk 4 cups", "Sugar 3/4 cup", "Cinnamon stick 2", "Lemon zest 1 tbsp", "Raisins 1/4 cup", "Vanilla extract 1 tsp", "Cinnamon powder for garnish"],
+    "instructions": ["Cook rice with water until tender", "Add milk and cinnamon sticks", "Simmer on low heat stirring frequently", "Add sugar and lemon zest", "Add raisins and vanilla", "Cook until thick and creamy", "Serve warm or chilled", "Sprinkle cinnamon on top"],
+    "cuisine": "Mexican",
+    "meal_type": "Dessert",
+    "prep_time": "5 minutes",
+    "cook_time": "40 minutes"
+  },
+  {
+    "recipe_name": "Tinga de Pollo",
+    "ingredients": ["Chicken 500g shredded", "Tomatoes 4", "Chipotle peppers 2", "Onion 1", "Garlic 3 cloves", "Oregano 1 tsp", "Cumin 1 tsp", "Bay leaf 1", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Cook chicken and shred", "Boil tomatoes and chipotle", "Blend into sauce", "Saute onion and garlic", "Add sauce and spices", "Add shredded chicken", "Simmer for 15 minutes", "Serve on tostadas or tacos"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Enfrijoladas",
+    "ingredients": ["Corn tortillas 8", "Black beans 2 cups cooked", "Mexican cheese 1 cup", "Sour cream 1/2 cup", "Onion 1 sliced", "Garlic 2 cloves", "Epazote 1 sprig", "Oil 2 tbsp", "Salt to taste"],
+    "instructions": ["Blend black beans with garlic and epazote", "Heat bean puree in pan", "Dip tortillas in warm bean sauce", "Fold tortillas and place on plate", "Pour more bean sauce over", "Top with cheese and sour cream", "Add sliced onion", "Serve hot"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Mexican Chocolate Pudding",
+    "ingredients": ["Dark chocolate 200g", "Milk 2 cups", "Cornstarch 3 tbsp", "Sugar 1/4 cup", "Cinnamon 1 tsp", "Vanilla extract 1 tsp", "Chili powder 1/4 tsp"],
+    "instructions": ["Heat milk with cinnamon and chili", "Mix cornstarch with little milk", "Add to heated milk", "Add sugar and chocolate", "Stir constantly until thick", "Add vanilla", "Pour into serving dishes", "Chill for 2 hours"],
+    "cuisine": "Mexican",
+    "meal_type": "Dessert",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Chilaquiles",
+    "ingredients": ["Tortilla chips 4 cups stale", "Salsa verde 2 cups", "Chicken 2 cups shredded", "Mexican cheese 1 cup", "Sour cream 1/2 cup", "Onion 1 sliced", "Eggs 2", "Oil 2 tbsp", "Cilantro for garnish"],
+    "instructions": ["Heat oil and saute onion", "Add salsa verde and simmer", "Toss tortilla chips in sauce", "Add shredded chicken", "Fry eggs sunny side up", "Top chilaquiles with cheese and sour cream", "Place fried egg on top", "Garnish with cilantro"],
+    "cuisine": "Mexican",
+    "meal_type": "Breakfast",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Mexican Elotes",
+    "ingredients": ["Corn on cob 6", "Mayonnaise 3/4 cup", "Cotija cheese 3/4 cup", "Chili powder 2 tsp", "Lime 2", "Cilantro 1/4 cup chopped"],
+    "instructions": ["Grill corn until charred and cooked", "Brush with mayonnaise while hot", "Roll in cotija cheese", "Sprinkle chili powder", "Squeeze lime juice", "Garnish with cilantro", "Serve immediately"],
+    "cuisine": "Mexican",
+    "meal_type": "Snack",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Nopales Salad",
+    "ingredients": ["Nopales 500g", "Tomato 2 diced", "Onion 1 diced", "Cilantro 1/4 cup", "Jalapeno 1", "Lime juice 3 tbsp", "Olive oil 2 tbsp", "Mexican cheese 1/2 cup", "Salt to taste"],
+    "instructions": ["Clean nopales and cut into strips", "Boil until tender and less slimy", "Drain and rinse", "Mix with diced vegetables", "Add lime juice and olive oil", "Add cheese and cilantro", "Season and chill", "Serve cold as salad"],
+    "cuisine": "Mexican",
+    "meal_type": "Salad",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes"
+  },
+  {
+    "recipe_name": "Sincronizadas",
+    "ingredients": ["Flour tortillas 6", "Ham 200g sliced", "Mexican cheese 2 cups", "Avocado 1 sliced", "Sour cream for serving", "Salsa for serving"],
+    "instructions": ["Place tortilla in pan", "Layer ham and cheese", "Top with second tortilla", "Cook until golden on both sides", "Cut into wedges", "Serve with avocado, sour cream, and salsa"],
+    "cuisine": "Mexican",
+    "meal_type": "Snack",
+    "prep_time": "5 minutes",
+    "cook_time": "10 minutes"
+  },
+  {
+    "recipe_name": "Caldo de Res",
+    "ingredients": ["Beef shank 500g", "Corn on cob 2 cut", "Potatoes 3", "Carrots 2", "Zucchini 2", "Cabbage 2 cups", "Garlic 3 cloves", "Onion 1", "Cilantro for garnish", "Lime wedges", "Salt to taste"],
+    "instructions": ["Boil beef with onion and garlic", "Skim foam", "Add corn and cook for 30 minutes", "Add potatoes and carrots", "Add zucchini and cabbage", "Cook until vegetables are tender", "Season with salt", "Serve hot with cilantro and lime"],
+    "cuisine": "Mexican",
+    "meal_type": "Soup",
+    "prep_time": "20 minutes",
+    "cook_time": "90 minutes"
+  },
+  {
+    "recipe_name": "Capirotada",
+    "ingredients": ["Bread 8 slices stale", "Piloncillo 1 cup", "Clove 3", "Cinnamon 2 sticks", "Cheese 1 cup", "Peanuts 1/2 cup", "Raisins 1/2 cup", "Banana 1 sliced", "Butter for greasing"],
+    "instructions": ["Toast bread until dry", "Make syrup with piloncillo and spices", "Layer bread in baking dish", "Pour syrup over each layer", "Add cheese, nuts, raisins, and banana", "Repeat layers", "Bake at 350F for 30 minutes", "Serve warm"],
+    "cuisine": "Mexican",
+    "meal_type": "Dessert",
+    "prep_time": "20 minutes",
+    "cook_time": "35 minutes"
+  },
+  {
+    "recipe_name": "Tortilla Soup",
+    "ingredients": ["Chicken stock 6 cups", "Tomatoes 400g crushed", "Garlic 3 cloves", "Onion 1", "Cumin 1 tsp", "Chili powder 1 tsp", "Corn tortillas 4 sliced strips", "Avocado 1", "Mexican cheese 1 cup", "Lime juice 2 tbsp", "Oil for frying", "Salt to taste"],
+    "instructions": ["Saute onion and garlic", "Add tomatoes, stock, and spices", "Simmer for 20 minutes", "Fry tortilla strips until crispy", "Serve soup topped with strips", "Add avocado, cheese, and lime"],
+    "cuisine": "Mexican",
+    "meal_type": "Soup",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes"
+  },
+  {
+    "recipe_name": "Pork Tamales",
+    "ingredients": ["Masa harina 4 cups", "Pork shoulder 500g", "Red chili sauce 1 cup", "Lard 1 cup", "Corn husks 24", "Garlic 3 cloves", "Cumin 1 tsp", "Baking powder 1 tsp", "Salt to taste"],
+    "instructions": ["Cook pork with garlic until tender", "Shred meat", "Mix with chili sauce", "Soak corn husks in warm water", "Mix masa with lard and stock", "Spread masa on husk", "Add pork filling", "Fold and tie", "Steam for 1 hour"],
+    "cuisine": "Mexican",
+    "meal_type": "Main Course",
+    "prep_time": "30 minutes",
+    "cook_time": "90 minutes"
+  }
+]
