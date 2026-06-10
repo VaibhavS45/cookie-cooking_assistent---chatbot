@@ -1,0 +1,63 @@
+[
+  {
+    "recipe_name": "Paneer Butter Masala",
+    "ingredients": [
+      "Paneer 200g",
+      "Butter 3 tbsp",
+      "Cream 1/2 cup",
+      "Tomato puree 1 cup",
+      "Onion 2 medium",
+      "Ginger-garlic paste 2 tbsp",
+      "Garam masala 1 tsp",
+      "Turmeric 1/2 tsp",
+      "Chili powder 1 tsp",
+      "Fenugreek leaves (optional)",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat butter in a pan and add ginger-garlic paste",
+      "Add chopped onions and saute until golden",
+      "Add tomato puree and cook for 3-4 minutes",
+      "Add garam masala, turmeric, and chili powder",
+      "Add paneer cubes and cook for 2 minutes",
+      "Add cream and mix well",
+      "Simmer for 3-4 minutes",
+      "Garnish with fenugreek leaves and serve with naan or rice"
+    ],
+    "cuisine": "Indian",
+    "meal_type": "Main Course",
+    "prep_time": "15 minutes",
+    "cook_time": "20 minutes"
+  },
+  {
+    "recipe_name": "Aloo Gobi",
+    "ingredients": [
+      "Potatoes 3 medium",
+      "Cauliflower 1 head",
+      "Onion 1 large",
+      "Green chili 2",
+      "Ginger-garlic paste 1 tbsp",
+      "Turmeric powder 1/2 tsp",
+      "Chili powder 1 tsp",
+      "Coriander powder 1 tsp",
+      "Cumin seeds 1 tsp",
+      "Oil 3 tbsp",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil in a large pan",
+      "Add cumin seeds and let them crackle",
+      "Add ginger-garlic paste and green chili",
+      "Add chopped onions and saute until translucent",
+      "Add potatoes and cauliflower florets",
+      "Add turmeric, chili powder, and coriander powder",
+      "Mix well and cover, cooking on medium heat for 15-20 minutes until vegetables are tender",
+      "Stir occasionally to prevent sticking",
+      "Serve hot with roti or rice"
+    ],
+    "cuisine": "Indian",
+    "meal_type": "Vegetable Side",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes"
+  }
+]

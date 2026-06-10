@@ -1,0 +1,20 @@
+============================================================
+RECIPE LOADING REPORT
+============================================================
+Timestamp: 2026-06-10T19:21:03.599729
+
+Total Recipes Loaded: 6
+Failed Recipes: 0
+Duplicates Removed: 0
+
+Cuisines:
+  Indian: 4
+  : 2
+
+Meal Types:
+  Main Course: 2
+  : 2
+  Vegetable Side: 1
+  Lentil Dish: 1
+
+============================================================

@@ -1,0 +1,187 @@
+{
+  "timestamp": "2026-06-10T19:21:03.597842",
+  "total_recipes": 6,
+  "recipes": [
+    {
+      "recipe_name": "Paneer Butter Masala",
+      "ingredients": [
+        "Paneer 200g",
+        "Butter 3 tbsp",
+        "Cream 1/2 cup",
+        "Tomato puree 1 cup",
+        "Onion 2 medium",
+        "Ginger-garlic paste 2 tbsp",
+        "Garam masala 1 tsp",
+        "Turmeric 1/2 tsp",
+        "Chili powder 1 tsp",
+        "Fenugreek leaves (optional)",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Heat butter in a pan and add ginger-garlic paste",
+        "Add chopped onions and saute until golden",
+        "Add tomato puree and cook for 3-4 minutes",
+        "Add garam masala, turmeric, and chili powder",
+        "Add paneer cubes and cook for 2 minutes",
+        "Add cream and mix well",
+        "Simmer for 3-4 minutes",
+        "Garnish with fenugreek leaves and serve with naan or rice"
+      ],
+      "cuisine": "Indian",
+      "meal_type": "Main Course",
+      "prep_time": "15 minutes",
+      "cook_time": "20 minutes"
+    },
+    {
+      "recipe_name": "Aloo Gobi",
+      "ingredients": [
+        "Potatoes 3 medium",
+        "Cauliflower 1 head",
+        "Onion 1 large",
+        "Green chili 2",
+        "Ginger-garlic paste 1 tbsp",
+        "Turmeric powder 1/2 tsp",
+        "Chili powder 1 tsp",
+        "Coriander powder 1 tsp",
+        "Cumin seeds 1 tsp",
+        "Oil 3 tbsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Heat oil in a large pan",
+        "Add cumin seeds and let them crackle",
+        "Add ginger-garlic paste and green chili",
+        "Add chopped onions and saute until translucent",
+        "Add potatoes and cauliflower florets",
+        "Add turmeric, chili powder, and coriander powder",
+        "Mix well and cover, cooking on medium heat for 15-20 minutes until vegetables are tender",
+        "Stir occasionally to prevent sticking",
+        "Serve hot with roti or rice"
+      ],
+      "cuisine": "Indian",
+      "meal_type": "Vegetable Side",
+      "prep_time": "10 minutes",
+      "cook_time": "25 minutes"
+    },
+    {
+      "recipe_name": "Chicken Tikka Masala",
+      "ingredients": [
+        "Chicken 500g",
+        "Yogurt 1 cup",
+        "Tomato puree 1 cup",
+        "Cream 1/2 cup",
+        "Onion 2",
+        "Ginger-garlic paste 2 tbsp",
+        "Garam masala 1 tsp",
+        "Chili powder 1 tsp",
+        "Turmeric 1/2 tsp",
+        "Oil 3 tbsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt and spices for 30 minutes",
+        "Grill or pan-fry until cooked",
+        "In a separate pan, saute onions and add ginger-garlic paste",
+        "Add tomato puree and spices",
+        "Add cooked chicken and cream",
+        "Simmer for 10 minutes"
+      ],
+      "cuisine": "Indian",
+      "meal_type": "Main Course",
+      "prep_time": "45 minutes",
+      "cook_time": "30 minutes"
+    },
+    {
+      "recipe_name": "Dal Tadka",
+      "ingredients": [
+        "Red lentils 1 cup",
+        "Turmeric 1/2 tsp",
+        "Chili powder 1 tsp",
+        "Cumin seeds 1 tsp",
+        "Mustard seeds 1 tsp",
+        "Asafetida 1/4 tsp",
+        "Oil 3 tbsp",
+        "Garlic 3 cloves",
+        "Dried red chili 2",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Boil lentils with turmeric until soft",
+        "In a pan, heat oil and add mustard seeds, let them crackle",
+        "Add cumin seeds, garlic, and dried chili",
+        "Add asafetida",
+        "Pour this tempering over cooked lentils",
+        "Mix well and serve with rice"
+      ],
+      "cuisine": "Indian",
+      "meal_type": "Lentil Dish",
+      "prep_time": "10 minutes",
+      "cook_time": "20 minutes"
+    },
+    {
+      "recipe_name": "Biryani",
+      "ingredients": [
+        "Basmati rice 2 cups",
+        "Mutton or chicken 500g",
+        "Onion 3 large",
+        "Yogurt 1 cup",
+        "Ginger-garlic paste 2 tbsp",
+        "Bay leaves 2",
+        "Cinnamon stick 1",
+        "Cardamom 4",
+        "Cloves 3",
+        "Ghee 4 tbsp",
+        "Green chili 2",
+        "Mint leaves 1/4 cup",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Soak basmati rice for 30 minutes",
+        "Marinate meat in yogurt, ginger-garlic paste, and spices for 1 hour",
+        "In a heavy-bottomed pot, layer marinated meat and partially cooked rice",
+        "Add bay leaves, cinnamon, cardamom, and cloves between layers",
+        "Sprinkle ghee and mint leaves",
+        "Cover with foil and place lid on top",
+        "Cook on high heat for 2 minutes until steam forms, then cook on medium heat for 45 minutes",
+        "Let rest for 5 minutes before opening",
+        "Serve hot with raita and salad"
+      ],
+      "cuisine": "",
+      "meal_type": "",
+      "prep_time": "",
+      "cook_time": ""
+    },
+    {
+      "recipe_name": "Butter Chicken",
+      "ingredients": [
+        "Chicken 600g",
+        "Yogurt 1 cup",
+        "Tomato puree 1.5 cups",
+        "Cream 3/4 cup",
+        "Butter 4 tbsp",
+        "Ginger-garlic paste 2 tbsp",
+        "Garam masala 1.5 tsp",
+        "Chili powder 1 tsp",
+        "Turmeric 1/2 tsp",
+        "Fenugreek leaves 2 tbsp",
+        "Oil 2 tbsp",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt, ginger-garlic paste, and spices for 30 minutes",
+        "Heat oil in a pan and cook chicken pieces until golden brown",
+        "Remove chicken and set aside",
+        "In the same pan, add butter and cook tomato puree until oil separates",
+        "Add garam masala, chili powder, and turmeric",
+        "Add cooked chicken and cream",
+        "Simmer for 15-20 minutes until sauce thickens",
+        "Garnish with fenugreek leaves",
+        "Serve with naan or rice"
+      ],
+      "cuisine": "",
+      "meal_type": "",
+      "prep_time": "",
+      "cook_time": ""
+    }
+  ]
+}
