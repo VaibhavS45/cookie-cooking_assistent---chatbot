@@ -1,0 +1,23 @@
+# Core
+streamlit==1.28.0
+numpy
+pandas
+
+# NLP & Embeddings
+sentence-transformers
+transformers
+torch
+
+# ML & Data
+scikit-learn
+nltk
+spacy
+
+# Hugging Face
+huggingface-hub
+datasets
+
+# Optional extras
+SpeechRecognition
+pyttsx3
+Pillow
