@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific - don't cache models on cloud
+resources/.cache/
+chatbot_project/resources/.cache/
+
+# Test/temp files
+terminal_test.txt
+test_pipeline.py
+
+# Embeddings cache (will be regenerated)
+chatbot_project/embeddings_cache/
+embeddings_cache/
